@@ -23,8 +23,6 @@ redirect_from:
   <a href="https://github.com/shichengf">😺 Github</a>
 </div>
 
-<!-- TODO: Add more links as needed: Twitter, LinkedIn, etc. -->
-
 
 ## 🎉 News
 
@@ -32,8 +30,6 @@ redirect_from:
   <li><span class="news-date">[2026.01]</span> New preprint: <strong><em>TRACE</em></strong> — Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
   <li><span class="news-date">[2025.08]</span> Started Ph.D. at UIC! 🎓</li>
 </ul>
-
-<!-- TODO: Add more news items as they come -->
 
 
 ## 🎓 Education
@@ -56,29 +52,9 @@ redirect_from:
 * **Shicheng Fan**, Kun Zhang, Lu Cheng. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](https://www.arxiv.org/abs/2601.21135) <span class="venue venue-review">Under Review</span>
 <br><span class="pub-links">[📄 Paper](https://www.arxiv.org/abs/2601.21135) / 📦 Code (coming soon)</span>
 
-<!-- TODO: Add more publications as they come -->
-
 ### Collaborative Publications
 
 * Hanyu Su, **Shicheng Fan**, Yifan Cui, Lu Cheng. Conformalized Proximal Causal Inference with a Single Proxy. <span class="venue venue-review">Under Review</span>
-
-
-## 🔬 Research Experience
-
-<div class="edu-row">
-  <img src="../images/UIC_logo.svg" width="36" style="vertical-align: middle;">
-  <div class="edu-info"><strong>University of Illinois Chicago</strong> — Graduate Research Assistant<br><em>08/2025 - present</em> · Advisor: <a href="https://lcheng.org/">Lu Cheng</a>, Collaborator: <a href="https://www.andrew.cmu.edu/user/kunz1/">Kun Zhang</a><br>Causal Representation Learning, Mixture-of-Experts architectures for continuous mechanism transitions</div>
-</div>
-
-<!-- TODO: Add previous research experiences -->
-
-
-## 👨‍💻 Academic Services
-
-<!-- TODO: Add reviewer experience, etc. -->
-<!-- Example:
-* Reviewer of NeurIPS 2026, ICML 2026
--->
 
 
 ## 🏆 Awards & Honors
