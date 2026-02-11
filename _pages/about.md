@@ -29,7 +29,7 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
-  <li><span class="news-date">[2026.01]</span> Submitted paper <strong><em>TRACE</em></strong> to <strong>ICML 2026</strong>: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning.</li>
+  <li><span class="news-date">[2026.01]</span> New preprint: <strong><em>TRACE</em></strong> — Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
   <li><span class="news-date">[2025.08]</span> Started Ph.D. at UIC! 🎓</li>
 </ul>
 
@@ -45,7 +45,7 @@ redirect_from:
 
 <div class="edu-row">
   <img src="../images/zju_logo.png" width="36" style="vertical-align: middle;">
-  <div class="edu-info"><strong>Zhejiang University</strong> , B.Eng. in Automation (Control & Robotics) , <em>09/2021 - 06/2025</em><br>Chu Kochen Honors College · GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)</div>
+  <div class="edu-info"><strong>Zhejiang University</strong> , B.Eng. in Automation , <em>09/2021 - 06/2025</em></div>
 </div>
 
 
@@ -53,14 +53,14 @@ redirect_from:
 
 ### First-author
 
-* **Shicheng Fan**, Kun Zhang, Lu Cheng. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning]() <span class="venue venue-review">ICML 2026, Under Review</span>
-<br><span class="pub-links">📄 Paper (coming soon) / 📦 Code (coming soon)</span>
+* **Shicheng Fan**, Kun Zhang, Lu Cheng. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](https://www.arxiv.org/abs/2601.21135) <span class="venue venue-review">Under Review</span>
+<br><span class="pub-links">[📄 Paper](https://www.arxiv.org/abs/2601.21135) / 📦 Code (coming soon)</span>
 
 <!-- TODO: Add more publications as they come -->
 
 ### Collaborative Publications
 
-<!-- TODO: Add collaborative publications here -->
+* Hanyu Su, **Shicheng Fan**, Yifan Cui, Lu Cheng. Conformalized Proximal Causal Inference with a Single Proxy. <span class="venue venue-review">Under Review</span>
 
 
 ## 🔬 Research Experience
