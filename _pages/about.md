@@ -9,12 +9,12 @@ redirect_from:
 
 <div class="profile-header">
   <div class="profile-text">
-    <h1>Shicheng Liu</h1>
+    <h1>Shicheng Fan</h1>
     <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://lcheng.org/">Lu Cheng</a>, with collaboration from Prof. <a href="https://www.andrew.cmu.edu/user/kunz1/">Kun Zhang</a> (CMU). </p>
     <p>My current research focuses on <strong>Causal Representation Learning</strong>, specifically developing frameworks that extend causal representation learning from discrete to continuous mechanism transitions using mixture-of-experts architectures. I am also broadly interested in <strong>Causal Inference</strong> and <strong>Trustworthy AI</strong>.</p>
   </div>
   <div class="profile-photo">
-    <img src="../images/profile.jpg" alt="Shicheng Liu">
+    <img src="../images/profile.jpg" alt="Shicheng Fan">
   </div>
 </div>
 <div class="profile-links">
@@ -56,7 +56,7 @@ redirect_from:
 
 ### First-author
 
-* **Shicheng Liu**, Lu Cheng, Kun Zhang. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning]() <span class="venue venue-review">ICML 2026, Under Review</span>
+* **Shicheng Fan**, Lu Cheng, Kun Zhang. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning]() <span class="venue venue-review">ICML 2026, Under Review</span>
 <br><span class="pub-links">📄 Paper (coming soon) / 📦 Code (coming soon)</span>
 
 <!-- TODO: Add more publications as they come -->

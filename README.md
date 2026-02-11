@@ -1,4 +1,4 @@
-# Shicheng Liu - Personal Academic Website
+# Shicheng Fan - Personal Academic Website
 
 Based on the [academicpages](https://github.com/academicpages/academicpages.github.io) Jekyll theme (Minimal Mistakes).
 
@@ -76,7 +76,7 @@ shicheng-homepage/
 ### Adding a new publication
 Add to `_pages/about.md` under the Publications section:
 ```markdown
-* **Shicheng Liu**, Co-Author. [Paper Title](URL) <span class="venue venue-pub">ICML 2026</span>
+* **Shicheng Fan**, Co-Author. [Paper Title](URL) <span class="venue venue-pub">ICML 2026</span>
 <br><span class="pub-links">[📄 Paper](URL) / [📦 Code](URL)</span>
 ```
 

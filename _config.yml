@@ -1,8 +1,8 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shicheng Liu"
+title                    : "Shicheng Fan"
 title_separator          : "-"
-name                     : &name "Shicheng Liu"
+name                     : &name "Shicheng Fan"
 description              : &description "Ph.D. student @ UIC"
 url                      : https://shichengf.github.io
 baseurl                  : ""
@@ -11,17 +11,17 @@ repository               : "shichengf/shichengf.github.io"
 # Site Author
 author:
   avatar           : "profile.jpg"  # TODO: add your photo to images/
-  name             : "Shicheng Liu"
+  name             : "Shicheng Fan"
   pronouns         :
   bio              : "Ph.D. student @ UIC"
   location         : "Chicago, IL, USA"
   employer         :
   uri              :
-  email            : "YOUR_EMAIL@uic.edu"  # TODO: replace
+  email            : "sfan25@uic.edu"  # TODO: replace
 
   # Academic websites
   arxiv            :
-  googlescholar    : # TODO: add your Google Scholar URL
+  googlescholar    : "https://scholar.google.com/citations?user=2MhZ6YkAAAAJ&hl=en"
   impactstory      :
   orcid            :
   pubmed           :
@@ -45,7 +45,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # TODO: your LinkedIn username
+  linkedin         : "Shicheng Fan"# TODO: your LinkedIn username
   mastodon         :
   medium           :
   pinterest        :

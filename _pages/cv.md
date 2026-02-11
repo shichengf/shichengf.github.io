@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Education
 
 * **Ph.D. in Computer Science**, University of Illinois Chicago, 2025 - present
@@ -25,8 +23,6 @@ redirect_from:
 
 ## Publications
 
-<!-- TODO: Update as publications grow -->
-
 * **Shicheng Liu**, Lu Cheng, Kun Zhang. "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning." *ICML 2026 (Under Review)*.
 
 ## Skills
@@ -34,8 +30,6 @@ redirect_from:
 * **Programming**: Python, PyTorch, JAX
 * **Tools**: Git, LaTeX, Linux/HPC (NCSA Delta, NRP Nautilus)
 * **Domains**: Causal Inference, Machine Learning, Molecular Dynamics Simulation
-
-<!-- TODO: Add more sections: Awards, Teaching, Service, etc. -->
 
 ---
 
