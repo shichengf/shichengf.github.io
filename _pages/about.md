@@ -35,12 +35,12 @@ redirect_from:
 ## 🎓 Education
 
 <div class="edu-row">
-  <img src="../images/UIC_logo.svg" width="36" style="vertical-align: middle;">
+  <img src="../images/UIC_logo.svg" width="36" height="36" style="vertical-align: middle; object-fit: contain;">
   <div class="edu-info"><strong>University of Illinois Chicago</strong> , Ph.D. in Computer Science , <em>08/2025 - present</em></div>
 </div>
 
 <div class="edu-row">
-  <img src="../images/zju_logo.png" width="36" style="vertical-align: middle;">
+  <img src="../images/zju_logo.png" width="36" height="36" style="vertical-align: middle; object-fit: contain;">
   <div class="edu-info"><strong>Zhejiang University</strong> , B.Eng. in Automation , <em>09/2021 - 06/2025</em></div>
 </div>
 

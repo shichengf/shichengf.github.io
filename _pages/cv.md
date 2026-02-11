@@ -11,27 +11,26 @@ redirect_from:
 
 * **Ph.D. in Computer Science**, University of Illinois Chicago, 2025 - present
   * Advisor: Prof. Lu Cheng; Collaborator: Prof. Kun Zhang (CMU)
-
-<!-- TODO: Add previous education -->
+* **B.Eng. in Automation**, Zhejiang University, 2021 - 2025
 
 ## Research Interests
 
-* Causal Representation Learning
-* Causal Inference
-* Trustworthy AI
-* Mixture-of-Experts Architectures
+* Causality
+* AI for Science
+* Reinforcement Learning
+* Large Language Models
 
 ## Publications
 
-* **Shicheng Liu**, Lu Cheng, Kun Zhang. "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning." *ICML 2026 (Under Review)*.
+* **Shicheng Fan**, Kun Zhang, Lu Cheng. "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning." *Under Review*.
+* Hanyu Su, **Shicheng Fan**, Yifan Cui, Lu Cheng. "Conformalized Proximal Causal Inference with a Single Proxy." *Under Review*.
 
 ## Skills
 
-* **Programming**: Python, PyTorch, JAX
-* **Tools**: Git, LaTeX, Linux/HPC (NCSA Delta, NRP Nautilus)
-* **Domains**: Causal Inference, Machine Learning, Molecular Dynamics Simulation
+* **Programming**: Python, C/C++, PyTorch
+* **Tools**: Git, LaTeX, Linux/HPC, CUDA, MPI
+* **Domains**: Causal Inference, Machine Learning, Robotics
 
 ---
 
 📄 [Download full CV (PDF)](/files/cv.pdf)
-<!-- TODO: Upload your CV PDF to files/cv.pdf -->
