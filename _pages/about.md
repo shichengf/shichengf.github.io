@@ -11,7 +11,7 @@ redirect_from:
   <div class="profile-text">
     <h1>Shicheng Fan</h1>
     <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://lcheng.org/">Lu Cheng</a>. </p>
-    <p>My current research focuses on <strong>Causal Representation Learning</strong>, specifically developing frameworks that extend causal representation learning from discrete to continuous mechanism transitions using mixture-of-experts architectures. I am also broadly interested in <strong>Causal Inference</strong> and <strong>Trustworthy AI</strong>.</p>
+    <p>My research interests center on <strong>Causality</strong> and its applications in <strong>AI for Science</strong>, <strong>Reinforcement Learning</strong>, and <strong>Large Language Models</strong>.</p>
   </div>
   <div class="profile-photo">
     <img src="../images/profile.jpg" alt="Shicheng Fan">
