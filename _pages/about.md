@@ -18,9 +18,9 @@ redirect_from:
   </div>
 </div>
 <div class="profile-links">
-  <a href="mailto:YOUR_EMAIL@uic.edu">📧 Email</a> /
-  <a href="https://scholar.google.com/">🎓 Google Scholar</a> /
-  <a href="https://github.com/">😺 Github</a>
+  <a href="mailto:sfan25@uic.edu">📧 Email</a> /
+  <a href="https://scholar.google.com/citations?user=Mk-thxsAAAAJ&hl=en">🎓 Google Scholar</a> /
+  <a href="https://github.com/shichengf">😺 Github</a>
 </div>
 
 <!-- TODO: Add more links as needed: Twitter, LinkedIn, etc. -->
@@ -43,20 +43,17 @@ redirect_from:
   <div class="edu-info"><strong>University of Illinois Chicago</strong> , Ph.D. in Computer Science , <em>08/2025 - present</em></div>
 </div>
 
-<!-- TODO: Add your previous education below -->
-<!--
 <div class="edu-row">
-  <img src="../images/YOUR_UNDERGRAD_LOGO.png" width="36" style="vertical-align: middle;">
-  <div class="edu-info"><strong>Your Undergraduate University</strong> , B.S. , <em>XX/20XX - XX/20XX</em></div>
+  <img src="../images/zju_logo.png" width="36" style="vertical-align: middle;">
+  <div class="edu-info"><strong>Zhejiang University</strong> , B.Eng. in Automation (Control & Robotics) , <em>09/2021 - 06/2025</em><br>Chu Kochen Honors College · GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)</div>
 </div>
--->
 
 
 ## 📝 Publications and Preprints
 
 ### First-author
 
-* **Shicheng Fan**, Lu Cheng, Kun Zhang. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning]() <span class="venue venue-review">ICML 2026, Under Review</span>
+* **Shicheng Fan**, Kun Zhang, Lu Cheng. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning]() <span class="venue venue-review">ICML 2026, Under Review</span>
 <br><span class="pub-links">📄 Paper (coming soon) / 📦 Code (coming soon)</span>
 
 <!-- TODO: Add more publications as they come -->
@@ -86,7 +83,13 @@ redirect_from:
 
 ## 🏆 Awards & Honors
 
-<!-- TODO: Add awards and scholarships -->
-<!-- Example:
-* **Some Scholarship**, *Year*
--->
+* **Academic Excellence Model**, Zhejiang University, *2022, 2023, 2024*
+* **Outstanding Students in AI&ML Summer Project**, University of Cambridge, *2023*
+* **National Second Prize**, Advanced Mathematics Competition of China, *2022*
+
+## 🏅 Competitions
+
+* **ACM-IPCC** (International Parallel Computing Challenge), National Second Prize, *2022*
+  * Optimized program runtime from 13min to 200ms (~4000x speedup) using MPI, CUDA, SIMD
+* **ASC** (Asia Supercomputer Community Challenge), National Second Prize, *2024*
+  * Built full HPC system from hardware to software; optimized LLM inference with KV Cache & batching strategies
