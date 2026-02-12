@@ -41,7 +41,8 @@ redirect_from:
 
 <div class="edu-row">
   <img src="../images/zju_logo.png" width="36" height="36" style="vertical-align: middle; object-fit: contain;">
-  <div class="edu-info"><strong>Zhejiang University</strong> , B.Eng. in Automation , <em>09/2021 - 06/2025</em></div>
+  <img src="../images/ckc_logo.png" width="36" height="36" style="vertical-align: middle; object-fit: contain;">
+  <div class="edu-info"><strong>Zhejiang University</strong> , B.Eng. in Automation (Control & Robotics) , <em>09/2021 - 06/2025</em><br>Chu Kochen Honors College · GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)</div>
 </div>
 
 
