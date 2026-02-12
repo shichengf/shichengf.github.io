@@ -35,13 +35,13 @@ redirect_from:
 ## 🎓 Education
 
 <div class="edu-row">
-  <img src="../images/UIC_logo.svg" width="40" height="40" style="vertical-align: middle; object-fit: contain;">
+  <div style="width:40px; height:40px; flex-shrink:0; display:flex; align-items:center; justify-content:center;"><img src="../images/UIC_logo.svg" style="max-width:40px; max-height:40px;"></div>
   <div class="edu-info"><strong>University of Illinois Chicago</strong> , Ph.D. in Computer Science , <em>08/2025 - present</em></div>
 </div>
 
 <div class="edu-row">
-  <img src="../images/zju_logo.png" width="40" height="40" style="vertical-align: middle; object-fit: contain;">
-  <img src="../images/ckc_logo.png" width="40" height="40" style="vertical-align: middle; object-fit: contain;">
+  <div style="width:40px; height:40px; flex-shrink:0; display:flex; align-items:center; justify-content:center;"><img src="../images/zju_logo.png" style="max-width:40px; max-height:40px;"></div>
+  <div style="width:40px; height:40px; flex-shrink:0; display:flex; align-items:center; justify-content:center;"><img src="../images/ckc_logo.png" style="max-width:40px; max-height:40px;"></div>
   <div class="edu-info"><strong>Zhejiang University</strong> , B.Eng. in Automation (Control & Robotics) , <em>09/2021 - 06/2025</em><br>Chu Kochen Honors College · GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)</div>
 </div>
 
