@@ -60,14 +60,14 @@ redirect_from:
 
 ## 🏆 Awards & Honors
 
-* **Academic Excellence Model**, Zhejiang University, *2022, 2023, 2024*
-* **Outstanding Students in AI&ML Summer Project**, University of Cambridge, *2023*
-* **National Second Prize**, Advanced Mathematics Competition of China, *2022*
+**Academic Excellence Model**, Zhejiang University, *2022, 2023, 2024*<br>
+**Outstanding Students in AI&ML Summer Project**, University of Cambridge, *2023*<br>
+**National Second Prize**, Advanced Mathematics Competition of China, *2022*
 
 
 ## 🏅 Competitions
 
-* **ACM-IPCC** (International Parallel Computing Challenge), National Second Prize, *2022*
-  * Optimized program runtime from 13min to 200ms (~4000x speedup) using MPI, CUDA, SIMD
-* **ASC** (Asia Supercomputer Community Challenge), National Second Prize, *2024*
-  * Built full HPC system from hardware to software; optimized LLM inference with KV Cache & batching strategies
+**ACM-IPCC** (International Parallel Computing Challenge), National Second Prize, *2022*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Optimized program runtime from 13min to 200ms (~4000x speedup) using MPI, CUDA, SIMD<br>
+**ASC** (Asia Supercomputer Community Challenge), National Second Prize, *2024*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Built full HPC system from hardware to software; optimized LLM inference with KV Cache & batching strategies
