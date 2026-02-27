@@ -59,4 +59,4 @@ redirect_from:
 
 ---
 
-📄 [Download full CV (PDF)](/files/cv.pdf)
+📄 [Download CV - Chinese (PDF)](/files/cv_zh.pdf) / 📄 [Download CV - English (PDF)](/files/cv_en.pdf)
