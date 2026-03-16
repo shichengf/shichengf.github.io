@@ -27,12 +27,10 @@ redirect_from:
   * Designed the TRACE framework based on Mixture-of-Experts, recovering mechanism trajectories via time-varying mixture coefficients, generalizable to unseen intermediate states
 
 * **Knowledge-Enhanced RL for LLM Factuality Alignment** · *Co-1st Author* · 2025–present
-  * Initiated and designed an end-to-end LLM post-training pipeline combining cold-start SFT and GRPO-based RL with multi-dimensional rewards, achieving state-of-the-art factuality on TriviaQA and SimpleQA
-  * Conceived and proposed CoVer, a plug-and-play corpus-verified factuality reward: extracted knowledge triples via a fine-tuned 0.5B model, verified entity co-occurrence against a local Infini-gram index on the Dolma corpus (~25TB indexed), providing an API-free reward compatible with any RL framework
+  * Designing an end-to-end LLM post-training pipeline combining SFT and RL for improved factuality alignment
 
 * **Causal Representation Learning for Protein Conformational Transitions** · *1st Author* · 2025–present
-  * Conceived the idea of applying temporal CRL to the molecular dynamics domain; designed an end-to-end differentiable framework recovering time-varying latent causal structures to identify key residues driving protein conformational transitions
-  * Integrated protein 3D spatial priors (contact map constraints) with temporal causal structure, bridging CRL and the molecular dynamics domain
+  * Applying causal representation learning to molecular dynamics for identifying key residues driving protein conformational transitions
 
 * **Semantic and Goal-Driven Dexterous Hand Manipulation** · *B.Sc. Thesis* · 2024–2025
   * Reproduced the Text2HOI three-stage framework, matching reported performance on H2O, GRAB, and ARCTIC datasets
