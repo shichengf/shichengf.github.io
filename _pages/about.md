@@ -16,7 +16,7 @@ redirect_from:
       <a href="https://github.com/shichengf">😺 Github</a> /
       <a href="https://www.linkedin.com/in/shicheng-fan-072935308/">💼 LinkedIn</a>
     </div>
-    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://lcheng.org/">Lu Cheng</a> and co-advised by Prof. <a href="https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html">Kun Zhang</a> (CMU). I received my B.Eng. from <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> (Chu Kochen Honors College), where I worked on dexterous robotic manipulation with Prof. <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a>.</p>
+    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://lcheng.org/">Lu Cheng</a>, collaborating with Prof. <a href="https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html">Kun Zhang</a> (CMU). I received my B.Eng. from <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> (Chu Kochen Honors College), where I worked on dexterous robotic manipulation with Prof. <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a>.</p>
     <p>My research interests center on <strong>Causality</strong> and its applications in <strong>AI for Science</strong>, <strong>Reinforcement Learning</strong>, and <strong>Large Language Models</strong>.</p>
   </div>
   <div class="profile-photo">
@@ -64,12 +64,13 @@ redirect_from:
   * Proposed the first theoretical framework extending causal representation learning from discrete mechanism shifts to continuous transitions; proved joint identifiability of latent causal variables and continuous mixture trajectories via nonlinear ICA and variational inference
   * Designed the TRACE framework based on Mixture-of-Experts, where each expert learns an atomic mechanism and time-varying mixture coefficients recover mechanism trajectories at inference
 
-* **QuCo-RL: Knowledge-Enhanced RL for LLM Anti-Hallucination Training** · *Core Member* · 2025–present
-  * Fine-tuned LLMs with GRPO via reinforcement learning; designed QuCo-Infigram factuality reward using entity frequency checks and sentence-level co-occurrence verification, eliminating the need for NLI models
-  * Constructed a local Wikipedia Infini-gram index (6.4M articles) enabling millisecond-level offline queries
+* **Knowledge-Enhanced RL for LLM Factuality Alignment** · *Co-1st Author* · 2025–present
+  * Initiated and designed an end-to-end LLM post-training pipeline combining cold-start SFT and GRPO-based RL with multi-dimensional rewards, achieving state-of-the-art factuality on TriviaQA and SimpleQA
+  * Conceived and proposed CoVer, a plug-and-play corpus-verified factuality reward: extracted knowledge triples via a fine-tuned 0.5B model, verified entity co-occurrence against a local Infini-gram index on the Dolma corpus (~25TB indexed), providing an API-free reward compatible with any RL framework
 
-* **Causal MD: End-to-End Causal Discovery for Protein Conformational Transitions** · *Core Member* · 2025–present
-  * Designed an end-to-end differentiable framework based on causal representation learning, recovering time-varying latent causal structures from molecular dynamics trajectories to identify key residues driving protein loop conformational transitions
+* **Causal Representation Learning for Protein Conformational Transitions** · *1st Author* · 2025–present
+  * Conceived the idea of applying temporal CRL to the molecular dynamics domain; designed an end-to-end differentiable framework recovering time-varying latent causal structures to identify key residues driving protein conformational transitions
+  * Integrated protein 3D spatial priors (contact map constraints) with temporal causal structure, bridging CRL and the molecular dynamics domain
 
 * **Semantic and Goal-Driven Dexterous Hand Manipulation** · *B.Sc. Thesis* · 2024–2025
   * Reproduced the Text2HOI three-stage framework, matching reported performance on H2O, GRAB, and ARCTIC datasets
