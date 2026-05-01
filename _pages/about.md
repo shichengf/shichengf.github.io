@@ -28,8 +28,8 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
-  <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification (also <em>under review</em>). <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a></li>
   <li><span class="news-date">[2026.04]</span> Excited that <strong><em>TRACE</em></strong> has been <strong>accepted to ICML 2026</strong>! Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></li>
+  <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification (also <em>under review</em>). <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a></li>
   <li><span class="news-date">[2026.01]</span> Posted the <strong><em>TRACE</em></strong> manuscript on arXiv. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
   <li><span class="news-date">[2025.08]</span> Started Ph.D. at UIC! 🎓</li>
 </ul>
