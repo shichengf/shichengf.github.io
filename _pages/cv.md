@@ -18,8 +18,7 @@ redirect_from:
 ## Publications
 
 * **Shicheng Fan**, Kun Zhang, Lu Cheng. "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning." In *Proceedings of the International Conference on Machine Learning (ICML)*, 2026. arXiv:2601.21135
-* Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification." arXiv:2604.01687, 2026. *Co-first author.*
-* Hanyu Su, **Shicheng Fan**, Yifan Cui, Lu Cheng. "Conformalized Proximal Causal Inference with a Single Proxy." *Under Review*
+* Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification." *Under Review*; manuscript arXiv:2604.01687. *Co-first author.*
 
 ## Research Experience
 
