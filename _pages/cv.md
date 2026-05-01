@@ -17,7 +17,7 @@ redirect_from:
 
 ## Publications
 
-* **Shicheng Fan**, Kun Zhang, Lu Cheng. "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning." *Under Review*, arXiv:2601.21135
+* **Shicheng Fan**, Kun Zhang, Lu Cheng. "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning." In *Proceedings of the International Conference on Machine Learning (ICML)*, 2026. arXiv:2601.21135
 * Hanyu Su, **Shicheng Fan**, Yifan Cui, Lu Cheng. "Conformalized Proximal Causal Inference with a Single Proxy." *Under Review*
 
 ## Research Experience
@@ -57,4 +57,5 @@ redirect_from:
 
 ---
 
-📄 [Download CV - Chinese (PDF)](/files/cv_zh.pdf) / 📄 [Download CV - English (PDF)](/files/cv_en.pdf)
+📄 [Download CV — English (PDF)](/files/cv_en.pdf) — *Chinese CV download is paused for now.*
+
