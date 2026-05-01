@@ -28,6 +28,7 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification. <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a></li>
   <li><span class="news-date">[2026.04]</span> Excited that <strong><em>TRACE</em></strong> has been <strong>accepted to ICML 2026</strong>! Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></li>
   <li><span class="news-date">[2026.01]</span> Posted the <strong><em>TRACE</em></strong> manuscript on arXiv. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
   <li><span class="news-date">[2025.08]</span> Started Ph.D. at UIC! 🎓</li>
@@ -56,10 +57,17 @@ redirect_from:
 
 ### Collaborative Publications
 
+* Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-review">arXiv 2026.04</span> <em>Co-first author</em>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2604.01687)</span>
+
 * Hanyu Su, **Shicheng Fan**, Yifan Cui, Lu Cheng. Conformalized Proximal Causal Inference with a Single Proxy. <span class="venue venue-review">Under Review</span>
 
 
 ## 🔬 Research Experience
+
+* **CoEvoSkills: Self-Evolving Agent Skills** · *Co-first author* · 2026
+  * Studied autonomous skill generation for LLM agents with a co-evolutionary framework coupling a Skill Generator and a Surrogate Verifier
+  * Contributed to empirical evaluations on SkillsBench and cross-model generalization analysis across multiple agent backbones
 
 * **TRACE: CRL under Continuous Mechanism Evolution** · *First Author* · 2025–2026
   * Proposed the first theoretical framework extending causal representation learning from discrete mechanism shifts to continuous transitions; proved joint identifiability of latent causal variables and continuous mixture trajectories via nonlinear ICA and variational inference
