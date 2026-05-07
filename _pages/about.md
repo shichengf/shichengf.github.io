@@ -17,7 +17,7 @@ redirect_from:
       <a href="https://www.linkedin.com/in/shicheng-fan-072935308/">💼 LinkedIn</a>
     </div>
     <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en">Philip S. Yu</a>, collaborating with Prof. <a href="https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html">Kun Zhang</a> (CMU) and Prof. <a href="https://lcheng.org/">Lu Cheng</a>. I received my B.Eng. from <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> (Chu Kochen Honors College), where I worked on dexterous robotic manipulation with Prof. <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a>.</p>
-    <p>My research interests center on <strong>Causality</strong> and its applications in <strong>AI for Science</strong>, <strong>Reinforcement Learning</strong>, and <strong>Large Language Models</strong>.</p>
+    <p>My research interests center on <strong>Causality</strong>, <strong>Agents</strong>, <strong>LLM Post-training</strong>, and <strong>AI for Science</strong>.</p>
   </div>
   <div class="profile-photo">
     <img src="../images/profile.jpg" alt="Shicheng Fan">
