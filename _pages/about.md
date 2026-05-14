@@ -18,6 +18,8 @@ redirect_from:
     </div>
     <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en">Philip S. Yu</a>, collaborating with Prof. <a href="https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html">Kun Zhang</a> (CMU) and Prof. <a href="https://lcheng.org/">Lu Cheng</a> (PSU). I received my B.Eng. from <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> (Chu Kochen Honors College), where I worked on dexterous robotic manipulation with Prof. <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a>.</p>
     <p>My research interests center on <strong>Causality</strong>, <strong>Agents</strong>, <strong>LLM Post-training</strong>, and <strong>AI for Science</strong>.</p>
+    <p class="open-to-collab">💬 Always happy to chat about research — feel free to reach out!</p>
+    <div class="highlight-pin"><span class="pin-label">🌟 Highlight</span> <strong><em>TRACE</em></strong> accepted to <strong>ICML 2026</strong> — Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></div>
   </div>
   <div class="profile-photo">
     <img src="../images/profile.jpg" alt="Shicheng Fan">
@@ -28,7 +30,7 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
-  <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>MOSAIC</em></strong> — Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. <a href="https://arxiv.org/abs/2605.05524">📄 Paper</a></li>
+  <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>MOSAIC</em></strong> — Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. <a href="https://arxiv.org/abs/2605.05524">📄 Paper</a> · <a href="https://github.com/shichengf/mosaic">💻 Code</a></li>
   <li><span class="news-date">[2026.04]</span> Excited that <strong><em>TRACE</em></strong> has been <strong>accepted to ICML 2026</strong>! Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></li>
   <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification. <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a></li>
   <li><span class="news-date">[2026.01]</span> New arXiv: <strong><em>TRACE</em></strong> — Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
@@ -54,7 +56,7 @@ redirect_from:
 ### First-author
 
 * **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](https://arxiv.org/abs/2605.05524) <span class="venue venue-review">Under Review</span>
-<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.05524)</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.05524) / [💻 Code](https://github.com/shichengf/mosaic)</span>
 
 * **Shicheng Fan**, Kun Zhang, Lu Cheng. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](https://www.arxiv.org/abs/2601.21135) <span class="venue venue-pub">ICML 2026</span>
 <br><span class="pub-links">[📄 Paper](https://www.arxiv.org/abs/2601.21135) / [💻 Code](https://github.com/shichengf/trace)</span>
@@ -63,30 +65,6 @@ redirect_from:
 
 * Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co-first author</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2604.01687)</span>
-
-
-## 🔬 Research Experience
-
-* **CoEvoSkills: Self-Evolving Agent Skills** · *Co-first author* · 2026
-  * Studied autonomous skill generation for LLM agents with a co-evolutionary framework coupling a Skill Generator and a Surrogate Verifier
-  * Contributed to empirical evaluations on SkillsBench and cross-model generalization analysis across multiple agent backbones
-
-* **TRACE: CRL under Continuous Mechanism Evolution** · *First Author* · 2025–2026
-  * Proposed the first theoretical framework extending causal representation learning from discrete mechanism shifts to continuous transitions; proved joint identifiability of latent causal variables and continuous mixture trajectories via nonlinear ICA and variational inference
-  * Designed the TRACE framework based on Mixture-of-Experts, where each expert learns an atomic mechanism and time-varying mixture coefficients recover mechanism trajectories at inference
-
-* **Knowledge-Enhanced RL for LLM Factuality Alignment** · *Co-1st Author* · 2025–present
-  * Designing an end-to-end LLM post-training pipeline combining SFT and RL for improved factuality alignment
-
-* **MOSAIC: Sparse Additive Identifiable Causal Learning for Scientific Time Series** · *First Author* · 2025–present
-  * Proposed MOSAIC, a sparse temporal VAE that combines temporal causal learning identifiability with support recovery of observed variables, identifying latents via regime-conditioned temporal variation and recovering sparse observation sets for each latent through an additive decoder
-  * Established identifiability of ANOVA main-effect supports under smooth mixing functions with finite-sample recovery guarantees
-  * Validated across RNA dynamics, solar wind, ENSO climate, Tennessee Eastman process, and tokamak data, recovering interpretable variable groupings
-
-* **Semantic and Goal-Driven Dexterous Hand Manipulation** · *B.Sc. Thesis* · 2024–2025
-  * Reproduced the Text2HOI three-stage framework, matching reported performance on H2O, GRAB, and ARCTIC datasets
-  * Proposed a Shadow Hand → MANO cross-embodiment retargeting algorithm via skeleton-point alignment and two-stage gradient optimization
-  * Joint training with GraspM3 dataset (8000+ objects) improved Physical Realism to 0.897 and reduced penetration volume by ~50%
 
 
 ## 🏆 Awards & Honors
