@@ -16,7 +16,7 @@ redirect_from:
       <a href="https://github.com/shichengf">😺 Github</a> /
       <a href="https://www.linkedin.com/in/shicheng-fan-072935308/">💼 LinkedIn</a>
     </div>
-    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en">Philip S. Yu</a>, collaborating with Prof. <a href="https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html">Kun Zhang</a> (CMU) and Prof. <a href="https://lcheng.org/">Lu Cheng</a>. I received my B.Eng. from <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> (Chu Kochen Honors College), where I worked on dexterous robotic manipulation with Prof. <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a>.</p>
+    <p>👋 I am a first-year CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en">Philip S. Yu</a>, collaborating with Prof. <a href="https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html">Kun Zhang</a> (CMU) and Prof. <a href="https://lcheng.org/">Lu Cheng</a> (PSU). I received my B.Eng. from <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> (Chu Kochen Honors College), where I worked on dexterous robotic manipulation with Prof. <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a>.</p>
     <p>My research interests center on <strong>Causality</strong>, <strong>Agents</strong>, <strong>LLM Post-training</strong>, and <strong>AI for Science</strong>.</p>
   </div>
   <div class="profile-photo">
@@ -28,6 +28,7 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>MOSAIC</em></strong> — Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. <a href="https://arxiv.org/abs/2605.05524">📄 Paper</a></li>
   <li><span class="news-date">[2026.04]</span> Excited that <strong><em>TRACE</em></strong> has been <strong>accepted to ICML 2026</strong>! Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></li>
   <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification (also <em>under review</em>). <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a></li>
   <li><span class="news-date">[2026.01]</span> Posted the <strong><em>TRACE</em></strong> manuscript on arXiv. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
@@ -51,6 +52,9 @@ redirect_from:
 ## 📝 Publications and Preprints
 
 ### First-author
+
+* **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](https://arxiv.org/abs/2605.05524) <span class="venue venue-review">arXiv 2026</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.05524)</span>
 
 * **Shicheng Fan**, Kun Zhang, Lu Cheng. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](https://www.arxiv.org/abs/2601.21135) <span class="venue venue-pub">ICML 2026</span>
 <br><span class="pub-links">[📄 Paper](https://www.arxiv.org/abs/2601.21135) / [💻 Code](https://github.com/shichengf/trace)</span>
