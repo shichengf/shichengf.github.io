@@ -30,8 +30,8 @@ redirect_from:
 <ul class="news-list">
   <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>MOSAIC</em></strong> — Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. <a href="https://arxiv.org/abs/2605.05524">📄 Paper</a></li>
   <li><span class="news-date">[2026.04]</span> Excited that <strong><em>TRACE</em></strong> has been <strong>accepted to ICML 2026</strong>! Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></li>
-  <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification (also <em>under review</em>). <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a></li>
-  <li><span class="news-date">[2026.01]</span> Posted the <strong><em>TRACE</em></strong> manuscript on arXiv. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
+  <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification (<em>under review</em>). <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a></li>
+  <li><span class="news-date">[2026.01]</span> New arXiv: <strong><em>TRACE</em></strong> — Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
   <li><span class="news-date">[2025.08]</span> Started Ph.D. at UIC! 🎓</li>
 </ul>
 
@@ -61,7 +61,7 @@ redirect_from:
 
 ### Collaborative Publications
 
-* Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-review">Under Review</span> <em>Co-first author</em>
+* Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co-first author</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2604.01687)</span>
 
 
