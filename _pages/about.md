@@ -30,7 +30,7 @@ redirect_from:
 <ul class="news-list">
   <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>MOSAIC</em></strong> — Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. <a href="https://arxiv.org/abs/2605.05524">📄 Paper</a></li>
   <li><span class="news-date">[2026.04]</span> Excited that <strong><em>TRACE</em></strong> has been <strong>accepted to ICML 2026</strong>! Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></li>
-  <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification (<em>under review</em>). <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a></li>
+  <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification. <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a></li>
   <li><span class="news-date">[2026.01]</span> New arXiv: <strong><em>TRACE</em></strong> — Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
   <li><span class="news-date">[2025.08]</span> Started Ph.D. at UIC! 🎓</li>
 </ul>
@@ -53,7 +53,7 @@ redirect_from:
 
 ### First-author
 
-* **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](https://arxiv.org/abs/2605.05524) <span class="venue venue-review">arXiv 2026</span>
+* **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](https://arxiv.org/abs/2605.05524) <span class="venue venue-review">Under Review</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.05524)</span>
 
 * **Shicheng Fan**, Kun Zhang, Lu Cheng. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](https://www.arxiv.org/abs/2601.21135) <span class="venue venue-pub">ICML 2026</span>
@@ -78,8 +78,10 @@ redirect_from:
 * **Knowledge-Enhanced RL for LLM Factuality Alignment** · *Co-1st Author* · 2025–present
   * Designing an end-to-end LLM post-training pipeline combining SFT and RL for improved factuality alignment
 
-* **Causal Representation Learning for Protein Conformational Transitions** · *1st Author* · 2025–present
-  * Applying causal representation learning to molecular dynamics for identifying key residues driving protein conformational transitions
+* **MOSAIC: Sparse Additive Identifiable Causal Learning for Scientific Time Series** · *First Author* · 2025–present
+  * Proposed MOSAIC, a sparse temporal VAE that combines temporal causal learning identifiability with support recovery of observed variables, identifying latents via regime-conditioned temporal variation and recovering sparse observation sets for each latent through an additive decoder
+  * Established identifiability of ANOVA main-effect supports under smooth mixing functions with finite-sample recovery guarantees
+  * Validated across RNA dynamics, solar wind, ENSO climate, Tennessee Eastman process, and tokamak data, recovering interpretable variable groupings
 
 * **Semantic and Goal-Driven Dexterous Hand Manipulation** · *B.Sc. Thesis* · 2024–2025
   * Reproduced the Text2HOI three-stage framework, matching reported performance on H2O, GRAB, and ARCTIC datasets
