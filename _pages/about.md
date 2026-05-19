@@ -63,7 +63,7 @@ redirect_from:
 
 ### Collaborative Publications
 
-* Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co-first author</span>
+* Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co-first author</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2604.01687) / [💻 Code](https://github.com/Zhang-Henry/CoEvoSkills)</span>
 
 
