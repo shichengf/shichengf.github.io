@@ -10,15 +10,16 @@ redirect_from:
 ## Education
 
 * **Ph.D. in Computer Science**, University of Illinois Chicago, 2025 – present
-  * Advisor: Prof. Lu Cheng; Collaborator: Prof. Kun Zhang (CMU)
-  * Research: Causal Representation Learning, Reinforcement Learning, LLM Alignment, AI for Science
+  * Advisor: Prof. Philip S. Yu; Collaborator: Prof. Kun Zhang (CMU)
+  * Research: Causality, Agents, LLM Post-training, AI for Science
 * **B.Eng. in Automation (Control & Robotics)**, Zhejiang University, Chu Kochen Honors College, 2021 – 2025
   * GPA: 3.98/4.0, Rank: 6/121 (Top 5%), Outstanding Graduate
 
 ## Publications
 
 * **Shicheng Fan**, Kun Zhang, Lu Cheng. "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning." In *Proceedings of the International Conference on Machine Learning (ICML)*, 2026. arXiv:2601.21135
-* Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification." *Under Review*; manuscript arXiv:2604.01687. *Co-first author.*
+* **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. "MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series." *Under Review*; manuscript arXiv:2605.05524.
+* Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification." *Under Review*; manuscript arXiv:2604.01687. *(\*Co-first author)*
 
 ## Research Experience
 
@@ -33,8 +34,10 @@ redirect_from:
 * **Knowledge-Enhanced RL for LLM Factuality Alignment** · *Co-1st Author* · 2025–present
   * Designing an end-to-end LLM post-training pipeline combining SFT and RL for improved factuality alignment
 
-* **Causal Representation Learning for Protein Conformational Transitions** · *1st Author* · 2025–present
-  * Applying causal representation learning to molecular dynamics for identifying key residues driving protein conformational transitions
+* **MOSAIC: Sparse Additive Identifiable Causal Learning for Scientific Time Series** · *First Author* · 2025–present
+  * Proposed MOSAIC, a sparse temporal VAE combining temporal causal learning identifiability with support recovery of observed variables; identifies latents via regime-conditioned temporal variation and recovers sparse observation sets per latent through an additive decoder
+  * Established identifiability of ANOVA main-effect supports under smooth mixing functions with finite-sample recovery guarantees
+  * Validated across RNA dynamics, solar wind, ENSO climate, Tennessee Eastman process, and tokamak data
 
 * **Semantic and Goal-Driven Dexterous Hand Manipulation** · *B.Sc. Thesis* · 2024–2025
   * Reproduced the Text2HOI three-stage framework, matching reported performance on H2O, GRAB, and ARCTIC datasets
