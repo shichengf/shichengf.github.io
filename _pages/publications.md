@@ -11,7 +11,7 @@ author_profile: true
 
 ## Under Review
 
-* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering.](https://arxiv.org/abs/2605.29648) *Under Review* (manuscript: arXiv:2605.29648). [Paper](https://arxiv.org/abs/2605.29648) *(\*Co-first author)*
+* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering.](https://arxiv.org/abs/2605.29648) *Under Review* (manuscript: arXiv:2605.29648). [Paper](https://arxiv.org/abs/2605.29648) · [Code](https://github.com/shichengf/CorVer) *(\*Co-first author)*
 
 * **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series.](https://arxiv.org/abs/2605.05524) *Under Review* (manuscript: arXiv:2605.05524). [Paper](https://arxiv.org/abs/2605.05524) · [Code](https://github.com/shichengf/mosaic)
 
