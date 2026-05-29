@@ -11,6 +11,8 @@ author_profile: true
 
 ## Under Review
 
+* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering.](https://arxiv.org/abs/2605.29648) *Under Review* (manuscript: arXiv:2605.29648). [Paper](https://arxiv.org/abs/2605.29648) *(\*Co-first author)*
+
 * **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series.](https://arxiv.org/abs/2605.05524) *Under Review* (manuscript: arXiv:2605.05524). [Paper](https://arxiv.org/abs/2605.05524) · [Code](https://github.com/shichengf/mosaic)
 
 * Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification.](https://arxiv.org/abs/2604.01687) *Under Review* (manuscript: arXiv:2604.01687). [Paper](https://arxiv.org/abs/2604.01687) · [Code](https://github.com/Zhang-Henry/CoEvoSkills) *(\*Co-first author)*

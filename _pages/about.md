@@ -30,6 +30,7 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>CorVer</em></strong> — Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering. <a href="https://arxiv.org/abs/2605.29648">📄 Paper</a></li>
   <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>MOSAIC</em></strong> — Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. <a href="https://arxiv.org/abs/2605.05524">📄 Paper</a> · <a href="https://github.com/shichengf/mosaic">💻 Code</a></li>
   <li><span class="news-date">[2026.04]</span> Excited that <strong><em>TRACE</em></strong> has been <strong>accepted to ICML 2026</strong>! Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></li>
   <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification. <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a> · <a href="https://github.com/Zhang-Henry/CoEvoSkills">💻 Code</a></li>
@@ -54,6 +55,9 @@ redirect_from:
 ## 📝 Publications and Preprints
 
 ### First-author
+
+* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co-first author</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.29648)</span>
 
 * **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](https://arxiv.org/abs/2605.05524) <span class="venue venue-review">Under Review</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.05524) / [💻 Code](https://github.com/shichengf/mosaic)</span>
