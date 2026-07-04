@@ -30,6 +30,7 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.06]</span> New preprint: <strong><em>Scaling LLM Agent Learning with Data Synthesis</em></strong> — A comprehensive survey. <a href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">📄 Paper</a></li>
   <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>CorVer</em></strong> — Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering. <a href="https://arxiv.org/abs/2605.29648">📄 Paper</a> · <a href="https://github.com/shichengf/CorVer">💻 Code</a></li>
   <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>MOSAIC</em></strong> — Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. <a href="https://arxiv.org/abs/2605.05524">📄 Paper</a> · <a href="https://github.com/shichengf/mosaic">💻 Code</a></li>
   <li><span class="news-date">[2026.04]</span> Excited that <strong><em>TRACE</em></strong> has been <strong>accepted to ICML 2026</strong>! Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></li>
@@ -66,6 +67,9 @@ redirect_from:
 <br><span class="pub-links">[📄 Paper](https://www.arxiv.org/abs/2601.21135) / [💻 Code](https://github.com/shichengf/trace)</span>
 
 ### Collaborative Publications
+
+* Hanrong Zhang, Yankai Chen, **Shicheng Fan**, Dehai Min, Shaowen Chen, ..., Dawn Song, Philip S. Yu, Xue Liu. [Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey) <span class="venue venue-review">Preprint</span>
+<br><span class="pub-links">[📄 Paper](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey)</span>
 
 * Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co-first author</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2604.01687) / [💻 Code](https://github.com/Zhang-Henry/CoEvoSkills)</span>
