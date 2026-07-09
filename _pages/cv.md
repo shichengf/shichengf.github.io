@@ -9,41 +9,30 @@ redirect_from:
 
 ## Education
 
-* **Ph.D. in Computer Science**, University of Illinois Chicago, 2025 – present
+* **Ph.D. in Computer Science**, University of Illinois Chicago, 2025–present
   * Advisor: Prof. Philip S. Yu; Collaborator: Prof. Kun Zhang (CMU)
-  * Research: Causality, Agents, LLM Post-training, AI for Science
-* **B.Eng. in Automation (Control & Robotics)**, Zhejiang University, Chu Kochen Honors College, 2021 – 2025
+  * Research: Causality, World Model, Agent, LLM Post Training
+* **B.Eng. in Automation (Control & Robotics)**, Zhejiang University, Chu Kochen Honors College, 2021–2025
   * GPA: 3.98/4.0, Rank: 6/121 (Top 5%), Outstanding Graduate
 
 ## Publications
 
 * **Shicheng Fan**, Kun Zhang, Lu Cheng. "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning." In *Proceedings of the International Conference on Machine Learning (ICML)*, 2026. arXiv:2601.21135
-* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. "Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering." *Under Review*; manuscript arXiv:2605.29648. *(\*Co-first author)*
+* Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification." *COLM 2026*. *(\*Co first author)*
+* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. "Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering." *Under Review*; manuscript arXiv:2605.29648. *(\*Co first author)*
 * **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. "MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series." *Under Review*; manuscript arXiv:2605.05524.
 * Hanrong Zhang, Yankai Chen, **Shicheng Fan**, Dehai Min, Shaowen Chen, ..., Dawn Song, Philip S. Yu, Xue Liu. "Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey." *Preprint*; ResearchGate, June 2026. DOI: 10.13140/RG.2.2.32395.86569.
-* Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification." *Under Review*; manuscript arXiv:2604.01687. *(\*Co-first author)*
 
-## Research Experience
+## Selected Research Experience
 
-* **CoEvoSkills: Self-Evolving Agent Skills** · *Co-first author* · 2026
-  * Studied autonomous skill generation with a co-evolutionary framework coupling a Skill Generator and a Surrogate Verifier
-  * Contributed to SkillsBench evaluation and cross-model generalization analysis
+* **Causal Representation Learning** · 2025–present
+  * Developed TRACE and MOSAIC, focusing on identifiability, mechanism evolution, and scientific time series.
 
-* **TRACE: CRL under Continuous Mechanism Evolution** · *First Author* · 2025–2026
-  * Proposed the first theoretical framework extending causal representation learning from discrete mechanism shifts to continuous transitions; proved joint identifiability via nonlinear ICA and variational inference
-  * Designed the TRACE framework based on Mixture-of-Experts, recovering mechanism trajectories via time-varying mixture coefficients, generalizable to unseen intermediate states
+* **LLM Agents and Post Training** · 2025–present
+  * Worked on agent skill learning, factuality alignment, process supervision, and data synthesis for LLM agents.
 
-* **Knowledge-Enhanced RL for LLM Factuality Alignment** · *Co-1st Author* · 2025–present
-  * Designing an end-to-end LLM post-training pipeline combining SFT and RL for improved factuality alignment
-
-* **MOSAIC: Sparse Additive Identifiable Causal Learning for Scientific Time Series** · *First Author* · 2025–present
-  * Proposed MOSAIC, a sparse temporal VAE combining temporal causal learning identifiability with support recovery of observed variables; identifies latents via regime-conditioned temporal variation and recovers sparse observation sets per latent through an additive decoder
-  * Established identifiability of ANOVA main-effect supports under smooth mixing functions with finite-sample recovery guarantees
-  * Validated across RNA dynamics, solar wind, ENSO climate, Tennessee Eastman process, and tokamak data
-
-* **Semantic and Goal-Driven Dexterous Hand Manipulation** · *B.Sc. Thesis* · 2024–2025
-  * Reproduced the Text2HOI three-stage framework, matching reported performance on H2O, GRAB, and ARCTIC datasets
-  * Proposed a Shadow Hand → MANO cross-embodiment retargeting algorithm; joint training with GraspM3 dataset improved Physical Realism to 0.897 and reduced penetration volume by ~50%
+* **Dexterous Hand Manipulation** · B.Sc. thesis · 2024–2025
+  * Studied goal driven hand object interaction and cross embodiment retargeting.
 
 ## Competitions
 
@@ -54,7 +43,7 @@ redirect_from:
 
 * **Programming**: Python, C/C++
 * **Frameworks & Tools**: PyTorch, HuggingFace Transformers, verl/TRL, Git, LaTeX, Linux/HPC (NCSA Delta, NRP Nautilus), CUDA, MPI
-* **Research Areas**: Causal Inference & Causal Representation Learning, LLM Alignment & Anti-Hallucination, Diffusion Models, Embodied Intelligence
+* **Research Areas**: Causal Inference & Causal Representation Learning, World Model, Agent, LLM Post Training
 * **Languages**: Chinese (native), English (fluent)
 
 ## Awards & Honors
@@ -66,4 +55,4 @@ redirect_from:
 
 ---
 
-📄 [Download CV — English (PDF)](/files/cv_en.pdf) — *Chinese CV download is paused for now.*
+📄 [Download CV: English PDF](/files/cv_en.pdf). *Chinese CV download is paused for now.*

@@ -17,9 +17,9 @@ redirect_from:
       <a href="https://www.linkedin.com/in/shicheng-fan-072935308/">💼 LinkedIn</a>
     </div>
     <p>👋 I am a CS Ph.D. student (Aug. 2025–) at <a href="https://www.uic.edu/">University of Illinois Chicago (UIC)</a>, where I am fortunate to be advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en">Philip S. Yu</a>, and to collaborate with Prof. <a href="https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html">Kun Zhang</a> (CMU). I received my B.Eng. from <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> (Chu Kochen Honors College), where I worked on dexterous robotic manipulation with Prof. <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a>.</p>
-    <p>My research interests center on <strong>Causality</strong>, <strong>Agents</strong>, <strong>LLM Post-training</strong>, and <strong>AI for Science</strong>.</p>
-    <p class="open-to-collab">💬 Always happy to chat about research — feel free to reach out!</p>
-    <div class="highlight-pin"><span class="pin-label">🌟 Highlight</span> <strong><em>TRACE</em></strong> accepted to <strong>ICML 2026</strong> — Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></div>
+    <p>My research interests center on <strong>Causality</strong>, <strong>World Model</strong>, <strong>Agent</strong>, and <strong>LLM Post Training</strong>.</p>
+    <p class="open-to-collab">💬 Always happy to chat about research. Feel free to reach out!</p>
+    <div class="highlight-pin"><span class="pin-label">🌟 Highlight</span> <strong><em>TRACE</em></strong> accepted to <strong>ICML 2026</strong>. Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></div>
   </div>
   <div class="profile-photo">
     <img src="../images/profile.jpg" alt="Shicheng Fan">
@@ -30,12 +30,13 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
-  <li><span class="news-date">[2026.06]</span> New preprint: <strong><em>Scaling LLM Agent Learning with Data Synthesis</em></strong> — A comprehensive survey. <a href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">📄 Paper</a></li>
-  <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>CorVer</em></strong> — Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering. <a href="https://arxiv.org/abs/2605.29648">📄 Paper</a> · <a href="https://github.com/shichengf/CorVer">💻 Code</a></li>
-  <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>MOSAIC</em></strong> — Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. <a href="https://arxiv.org/abs/2605.05524">📄 Paper</a> · <a href="https://github.com/shichengf/mosaic">💻 Code</a></li>
+  <li><span class="news-date">[2026.07]</span> <strong><em>CoEvoSkills</em></strong> accepted to <strong>COLM 2026</strong>. <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a> · <a href="https://github.com/Zhang-Henry/CoEvoSkills">💻 Code</a></li>
+  <li><span class="news-date">[2026.06]</span> New preprint: <strong><em>Scaling LLM Agent Learning with Data Synthesis</em></strong>, a comprehensive survey. <a href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">📄 Paper</a></li>
+  <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>CorVer</em></strong>, Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering. <a href="https://arxiv.org/abs/2605.29648">📄 Paper</a> · <a href="https://github.com/shichengf/CorVer">💻 Code</a></li>
+  <li><span class="news-date">[2026.05]</span> New arXiv: <strong><em>MOSAIC</em></strong>, Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series. <a href="https://arxiv.org/abs/2605.05524">📄 Paper</a> · <a href="https://github.com/shichengf/mosaic">💻 Code</a></li>
   <li><span class="news-date">[2026.04]</span> Excited that <strong><em>TRACE</em></strong> has been <strong>accepted to ICML 2026</strong>! Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a> · <a href="https://github.com/shichengf/trace">💻 Code</a></li>
-  <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong> — Self-Evolving Agent Skills via Co-Evolutionary Verification. <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a> · <a href="https://github.com/Zhang-Henry/CoEvoSkills">💻 Code</a></li>
-  <li><span class="news-date">[2026.01]</span> New arXiv: <strong><em>TRACE</em></strong> — Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
+  <li><span class="news-date">[2026.04]</span> New arXiv: <strong><em>CoEvoSkills</em></strong>, Self-Evolving Agent Skills via Co-Evolutionary Verification. <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a> · <a href="https://github.com/Zhang-Henry/CoEvoSkills">💻 Code</a></li>
+  <li><span class="news-date">[2026.01]</span> New arXiv: <strong><em>TRACE</em></strong>, Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning. <a href="https://www.arxiv.org/abs/2601.21135">📄 Paper</a></li>
   <li><span class="news-date">[2025.08]</span> Started Ph.D. at UIC! 🎓</li>
 </ul>
 
@@ -44,20 +45,20 @@ redirect_from:
 
 <div class="edu-row">
   <div style="width:40px; height:40px; flex-shrink:0; display:flex; align-items:center; justify-content:center;"><img src="../images/UIC_logo.svg" style="max-width:40px; max-height:40px;"></div>
-  <div class="edu-info"><strong>University of Illinois Chicago</strong> , Ph.D. in Computer Science , <em>08/2025 - present</em></div>
+  <div class="edu-info"><strong>University of Illinois Chicago</strong> , Ph.D. in Computer Science , <em>08/2025–present</em></div>
 </div>
 
 <div class="edu-row">
   <div style="width:40px; height:40px; flex-shrink:0; display:flex; align-items:center; justify-content:center;"><img src="../images/zju_logo.svg" style="max-width:40px; max-height:40px;"></div>
-  <div class="edu-info"><strong>Zhejiang University</strong> , B.Eng. in Automation (Control & Robotics) , <em>09/2021 - 06/2025</em><br>Chu Kochen Honors College · GPA: 3.98/4.0 · Rank: 6/121 (Top 5%) · Outstanding Graduate</div>
+  <div class="edu-info"><strong>Zhejiang University</strong> , B.Eng. in Automation (Control & Robotics) , <em>09/2021–06/2025</em><br>Chu Kochen Honors College · GPA: 3.98/4.0 · Rank: 6/121 (Top 5%) · Outstanding Graduate</div>
 </div>
 
 
 ## 📝 Publications and Preprints
 
-### First-author
+### First Author
 
-* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co-first author</span>
+* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co first author</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.29648) / [💻 Code](https://github.com/shichengf/CorVer)</span>
 
 * **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](https://arxiv.org/abs/2605.05524) <span class="venue venue-review">Under Review</span>
@@ -71,7 +72,7 @@ redirect_from:
 * Hanrong Zhang, Yankai Chen, **Shicheng Fan**, Dehai Min, Shaowen Chen, ..., Dawn Song, Philip S. Yu, Xue Liu. [Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey) <span class="venue venue-review">Preprint</span>
 <br><span class="pub-links">[📄 Paper](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey)</span>
 
-* Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co-first author</span>
+* Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-pub">COLM 2026</span> <span class="venue venue-cofirst">Co first author</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2604.01687) / [💻 Code](https://github.com/Zhang-Henry/CoEvoSkills)</span>
 
 
