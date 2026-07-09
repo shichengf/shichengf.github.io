@@ -57,10 +57,10 @@ redirect_from:
 
 ### First Author
 
-* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-review">Under Review</span> <span class="venue venue-cofirst">Co first author</span>
+* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-preprint">Preprint</span> <span class="venue venue-cofirst">Co first author</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.29648) / [💻 Code](https://github.com/shichengf/CorVer)</span>
 
-* **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](https://arxiv.org/abs/2605.05524) <span class="venue venue-review">Under Review</span>
+* **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](https://arxiv.org/abs/2605.05524) <span class="venue venue-preprint">Preprint</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.05524) / [💻 Code](https://github.com/shichengf/mosaic)</span>
 
 * **Shicheng Fan**, Kun Zhang, Lu Cheng. [TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning](https://www.arxiv.org/abs/2601.21135) <span class="venue venue-pub">ICML 2026</span>
@@ -68,11 +68,11 @@ redirect_from:
 
 ### Collaborative Publications
 
-* Hanrong Zhang, Yankai Chen, **Shicheng Fan**, Dehai Min, Shaowen Chen, ..., Dawn Song, Philip S. Yu, Xue Liu. [Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey) <span class="venue venue-review">Preprint</span>
-<br><span class="pub-links">[📄 Paper](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey)</span>
-
 * Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-pub">COLM 2026</span> <span class="venue venue-cofirst">Co first author</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2604.01687) / [💻 Code](https://github.com/Zhang-Henry/CoEvoSkills)</span>
+
+* Hanrong Zhang, Yankai Chen, **Shicheng Fan**, Dehai Min, Shaowen Chen, ..., Dawn Song, Philip S. Yu, Xue Liu. [Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey) <span class="venue venue-preprint">Preprint</span>
+<br><span class="pub-links">[📄 Paper](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey)</span>
 
 
 ## 🏆 Awards & Honors
