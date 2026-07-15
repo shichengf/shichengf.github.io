@@ -80,8 +80,12 @@ Add to `_pages/about.md` under the Publications section:
 <br><span class="pub-links">[📄 Paper](URL) / [📦 Code](URL)</span>
 ```
 
+On the homepage, treat every equal-contribution paper as a first-author publication, including papers where Shicheng is listed second among the co-first authors. Place it under `### First Author` and add the `venue-cofirst` label.
+
 Venue tag colors:
 - `venue-pub` = green (published)
+- `venue-preprint` = blue (preprint)
+- `venue-cofirst` = pink (co-first author)
 - `venue-oral` = yellow (oral)
 - `venue-review` = blue (under review)
 
