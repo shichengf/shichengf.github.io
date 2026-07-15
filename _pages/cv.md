@@ -18,8 +18,8 @@ redirect_from:
 ## Publications
 
 * **Shicheng Fan**, Kun Zhang, Lu Cheng. "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning." In *Proceedings of the International Conference on Machine Learning (ICML)*, 2026. arXiv:2601.21135
-* Hanrong Zhang\*, **Shicheng Fan**\*, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification." *COLM 2026*. *(\*Co first author)*
-* **Shicheng Fan**\*, Haochang Hao\*, Dehai Min\*, Weihao Liu, Philip S. Yu, Lu Cheng. "Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering." *Preprint*; arXiv:2605.29648. *(\*Co first author)*
+* Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification." *COLM 2026*.
+* **Shicheng Fan**, Haochang Hao, Dehai Min, Weihao Liu, Philip S. Yu, Lu Cheng. "Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering." *Preprint*; arXiv:2605.29648.
 * **Shicheng Fan**, Nour Elhendawy, Jianle Sun, Ke Fang, Kun Zhang, Yihang Wang, Lu Cheng. "MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series." *Preprint*; arXiv:2605.05524.
 * Hanrong Zhang, Yankai Chen, **Shicheng Fan**, Dehai Min, Shaowen Chen, ..., Dawn Song, Philip S. Yu, Xue Liu. "Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey." *Preprint*; ResearchGate, June 2026. DOI: 10.13140/RG.2.2.32395.86569.
 
