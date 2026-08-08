@@ -29,6 +29,8 @@ redirect_from:
 ## 🎉 News
 
 <ul class="news-list">
+  <li><span class="news-date">[2026.08]</span> New preprint: <strong><em>ACWorld</em></strong>, Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce. <a href="https://arxiv.org/abs/2608.02441">📄 Paper</a> · <a href="https://github.com/shichengf/ACWorld">💻 Code</a></li>
+  <li><span class="news-date">[2026.07]</span> New preprint: <strong><em>Paying for Honesty Without Knowing the Truth</em></strong>, Reputation-Penalty Design for LLM Marketplace Agents. <a href="https://arxiv.org/abs/2607.28330">📄 Paper</a></li>
   <li><span class="news-date">[2026.07]</span> <span class="news-highlight">🌟 Highlight</span> <strong><em>CoEvoSkills</em></strong> accepted to <strong>COLM 2026</strong>. <a href="https://arxiv.org/abs/2604.01687">📄 Paper</a> · <a href="https://github.com/Zhang-Henry/CoEvoSkills">💻 Code</a></li>
   <li><span class="news-date">[2026.06]</span> New preprint: <strong><em>Scaling LLM Agent Learning with Data Synthesis</em></strong>, a comprehensive survey. <a href="https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey">📄 Paper</a></li>
   <li><span class="news-date">[2026.05]</span> New preprint: <strong><em>CorVer</em></strong>, Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering. <a href="https://arxiv.org/abs/2605.29648">📄 Paper</a> · <a href="https://github.com/shichengf/CorVer">💻 Code</a></li>
@@ -63,6 +65,9 @@ redirect_from:
 * Hanrong Zhang, **Shicheng Fan**, Henry Peng Zou, Yankai Chen, Zhenting Wang, Jiayu Zhou, Chengze Li, Wei-Chieh Huang, Yifei Yao, Kening Zheng, Xue Liu, Xiaoxiao Li, Philip S. Yu. [CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification](https://arxiv.org/abs/2604.01687) <span class="venue venue-pub">COLM 2026</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2604.01687) / [💻 Code](https://github.com/Zhang-Henry/CoEvoSkills)</span>
 
+* **Shicheng Fan**, Mingdai Yang, Duohao Wang, Canyu Chen, Yongfeng Zhang, Hua Wei, Manling Li, Julian McAuley, Kun Zhang, Philip S. Yu, Kejing Yu, Zhiwei Liu. [Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce](https://arxiv.org/abs/2608.02441) <span class="venue venue-preprint">Preprint</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2608.02441) / [💻 Code](https://github.com/shichengf/ACWorld)</span>
+
 * **Shicheng Fan**, Haochang Hao, Dehai Min, Weihao Liu, Philip S. Yu, Lu Cheng. [Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering](https://arxiv.org/abs/2605.29648) <span class="venue venue-preprint">Preprint</span>
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.29648) / [💻 Code](https://github.com/shichengf/CorVer)</span>
 
@@ -70,6 +75,9 @@ redirect_from:
 <br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2605.05524) / [💻 Code](https://github.com/shichengf/mosaic)</span>
 
 ### Collaborative Publications
+
+* Mingdai Yang, **Shicheng Fan**, Kejing Yu, Duohao Wang, Li Sun, Hao Peng, Philip S. Yu, Zhiwei Liu. [Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents](https://arxiv.org/abs/2607.28330) <span class="venue venue-preprint">Preprint</span>
+<br><span class="pub-links">[📄 Paper](https://arxiv.org/abs/2607.28330)</span>
 
 * Hanrong Zhang, Yankai Chen, **Shicheng Fan**, Dehai Min, Shaowen Chen, ..., Dawn Song, Philip S. Yu, Xue Liu. [Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey) <span class="venue venue-preprint">Preprint</span>
 <br><span class="pub-links">[📄 Paper](https://www.researchgate.net/publication/406488336_Scaling_LLM_Agent_Learning_with_Data_Synthesis_A_Comprehensive_Survey)</span>
