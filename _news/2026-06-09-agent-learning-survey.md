@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We released a comprehensive survey on [scaling LLM agent learning with data synthesis](https://openreview.net/forum?id=pQYwkpYmLy).
+We released [Scaling LLM Agent Learning with Data Synthesis](https://openreview.net/forum?id=pQYwkpYmLy), a comprehensive survey of data synthesis for LLM agents.

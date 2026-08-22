@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[CoEvoSkills](https://arxiv.org/abs/2604.01687) was accepted to **COLM 2026**. Code is available on [GitHub](https://github.com/Zhang-Henry/CoEvoSkills).
+We released [CoEvoSkills](https://arxiv.org/abs/2604.01687), accepted to **COLM 2026**. Code is available on [GitHub](https://github.com/Zhang-Henry/CoEvoSkills).
