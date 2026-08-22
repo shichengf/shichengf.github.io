@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Shicheng Fan"
 title_separator          : "-"
 name                     : &name "Shicheng Fan"
-description              : &description "Ph.D. student @ UIC"
+description              : &description "Shicheng Fan is a Ph.D. student in Computer Science at the University of Illinois Chicago. Research interests include Causality, World Models, AI Agents, and LLM Post-Training."
 url                      : https://shichengf.github.io
 baseurl                  : ""
 repository               : "shichengf/shichengf.github.io"
@@ -114,9 +114,13 @@ facebook:
   publisher              :
 og_image                 :
 social:
-  type                   :
-  name                   :
+  type                   : Person
+  name                   : Shicheng Fan
   links:
+    - https://github.com/shichengf
+    - https://scholar.google.com/citations?user=Mk-thxsAAAAJ
+    - https://www.linkedin.com/in/shicheng-fan-072935308
+    - https://huggingface.co/Shichengf
 
 # Analytics
 analytics:
