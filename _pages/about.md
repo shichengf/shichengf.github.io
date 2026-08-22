@@ -32,11 +32,55 @@ My research lies at the intersection of **causality** and **agentic AI**. I am i
 
 ## education
 
-**[University of Illinois Chicago](https://www.uic.edu/)** <span class="float-right">Aug 2025 – Present</span><br>
-Ph.D. in Computer Science · Advisor: Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en)
+<div class="row">
+  <div class="col-md-6 mb-3">
+    <div class="card h-100 shadow-sm">
+      <div class="card-body">
+        <div class="d-flex align-items-center mb-3">
+          <img
+            src="{{ '/images/UIC_logo.svg' | relative_url }}"
+            alt="University of Illinois Chicago logo"
+            class="mr-3"
+            style="width: 58px; height: 58px; object-fit: contain"
+          >
+          <div>
+            <h5 class="card-title mb-1"><a href="https://www.uic.edu/">University of Illinois Chicago</a></h5>
+            <span class="text-muted small">Aug 2025 – Present</span>
+          </div>
+        </div>
+        <p class="card-text mb-2"><strong>Ph.D. in Computer Science</strong></p>
+        <p class="card-text small mb-0">
+          Advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en">Philip S. Yu</a><br>
+          Research: Causality, World Models, AI Agents, and LLM Post-Training
+        </p>
+      </div>
+    </div>
+  </div>
 
-**[Zhejiang University](https://www.zju.edu.cn/english/) · Chu Kochen Honors College** <span class="float-right">Sep 2021 – Jun 2025</span><br>
-B.Eng. in Automation (Control & Robotics) · **GPA: 3.98/4.0** · **Rank: 6/121 (Top 5%)** · Outstanding Graduate<br>
-Research on dexterous robotic manipulation with Prof. [Qi Ye](https://person.zju.edu.cn/en/yeqi)
+  <div class="col-md-6 mb-3">
+    <div class="card h-100 shadow-sm">
+      <div class="card-body">
+        <div class="d-flex align-items-center mb-3">
+          <img
+            src="{{ '/images/zju_logo.svg' | relative_url }}"
+            alt="Zhejiang University logo"
+            class="mr-3"
+            style="width: 58px; height: 58px; object-fit: contain"
+          >
+          <div>
+            <h5 class="card-title mb-1"><a href="https://www.zju.edu.cn/english/">Zhejiang University</a></h5>
+            <span class="text-muted small">Sep 2021 – Jun 2025</span>
+          </div>
+        </div>
+        <p class="card-text mb-1"><strong>B.Eng. in Automation (Control &amp; Robotics)</strong></p>
+        <p class="card-text mb-1"><a href="http://ckc.zju.edu.cn/ckcen/"><strong>Chu Kochen Honors College</strong></a></p>
+        <p class="card-text mb-1"><strong>GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)</strong></p>
+        <p class="card-text small mb-0">
+          Outstanding Graduate · Dexterous robotic manipulation with Prof. <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 I am always happy to discuss research and potential collaborations. Please feel free to reach out by email.
