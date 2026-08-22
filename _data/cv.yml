@@ -39,6 +39,11 @@ cv:
           - Outstanding Graduate
 
     Experience:
+      - company: Aether AI
+        position: Part-time Research Intern
+        start_date: 2026-08
+        end_date: present
+
       - company: University of Illinois Chicago
         position: Graduate Researcher
         location: Chicago, Illinois
