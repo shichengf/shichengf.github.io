@@ -1,0 +1,212 @@
+cv:
+  name: Shicheng Fan
+  label: Ph.D. Student in Computer Science
+  email: shicheng0222@gmail.com
+  location: Chicago, Illinois
+  image: ""
+  summary: Ph.D. student at the University of Illinois Chicago working on causality, world models, AI agents, and LLM post-training.
+
+  social_networks:
+    - network: GitHub
+      username: shichengf
+    - network: LinkedIn
+      username: shicheng-fan-072935308
+
+  sections:
+    Education:
+      - institution: University of Illinois Chicago
+        location: Chicago, Illinois
+        url: https://www.uic.edu/
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2025-08
+        end_date: present
+        highlights:
+          - "Advisor: Prof. Philip S. Yu"
+          - "Collaborator: Prof. Kun Zhang, Carnegie Mellon University"
+          - "Research: Causality, World Models, AI Agents, and LLM Post-Training"
+
+      - institution: Zhejiang University
+        location: Hangzhou, China
+        url: https://www.zju.edu.cn/english/
+        area: Automation (Control & Robotics)
+        studyType: B.Eng.
+        start_date: 2021-09
+        end_date: 2025-06
+        score: "GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)"
+        highlights:
+          - Chu Kochen Honors College
+          - Outstanding Graduate
+
+    Experience:
+      - company: University of Illinois Chicago
+        position: Graduate Researcher
+        location: Chicago, Illinois
+        start_date: 2025-08
+        end_date: present
+        summary: Research on causal representation learning, verifiable agent behavior, agent skill learning, and LLM post-training.
+        highlights:
+          - Developed TRACE for recovering continuously evolving causal mechanisms.
+          - Developed MOSAIC for interpretable module discovery in scientific time series.
+          - Worked on verifiable rewards, self-evolving skills, and auditable agent environments.
+
+      - company: Zhejiang University
+        position: Undergraduate Researcher
+        location: Hangzhou, China
+        start_date: 2024
+        end_date: 2025
+        summary: Research on dexterous robotic manipulation with Prof. Qi Ye.
+        highlights:
+          - Studied goal-driven hand-object interaction and cross-embodiment retargeting.
+
+    Publications:
+      - title: "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning"
+        authors:
+          - Shicheng Fan
+          - Kun Zhang
+          - Lu Cheng
+        publisher: International Conference on Machine Learning (ICML)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2601.21135
+
+      - title: "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification"
+        authors:
+          - Hanrong Zhang
+          - Shicheng Fan
+          - Henry Peng Zou
+          - Yankai Chen
+          - Zhenting Wang
+          - Jiayu Zhou
+          - Chengze Li
+          - Wei-Chieh Huang
+          - Yifei Yao
+          - Kening Zheng
+          - Xue Liu
+          - Xiaoxiao Li
+          - Philip S. Yu
+        publisher: Conference on Language Modeling (COLM)
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2604.01687
+
+      - title: "Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce"
+        authors:
+          - Shicheng Fan
+          - Mingdai Yang
+          - Duohao Wang
+          - Canyu Chen
+          - Yongfeng Zhang
+          - Hua Wei
+          - Manling Li
+          - Julian McAuley
+          - Kun Zhang
+          - Philip S. Yu
+          - Kejing Yu
+          - Zhiwei Liu
+        publisher: arXiv preprint
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2608.02441
+
+      - title: "Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering"
+        authors:
+          - Shicheng Fan
+          - Haochang Hao
+          - Dehai Min
+          - Weihao Liu
+          - Philip S. Yu
+          - Lu Cheng
+        publisher: arXiv preprint
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2605.29648
+
+      - title: "MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series"
+        authors:
+          - Shicheng Fan
+          - Nour Elhendawy
+          - Jianle Sun
+          - Ke Fang
+          - Kun Zhang
+          - Yihang Wang
+          - Lu Cheng
+        publisher: arXiv preprint
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2605.05524
+
+      - title: "Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents"
+        authors:
+          - Mingdai Yang
+          - Shicheng Fan
+          - Kejing Yu
+          - Duohao Wang
+          - Li Sun
+          - Hao Peng
+          - Philip S. Yu
+          - Zhiwei Liu
+        publisher: arXiv preprint
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2607.28330
+
+      - title: "Scaling LLM Agent Learning with Data Synthesis: A Comprehensive Survey"
+        authors:
+          - Hanrong Zhang
+          - Yankai Chen
+          - Shicheng Fan
+          - et al.
+        publisher: OpenReview preprint
+        releaseDate: 2026
+        url: https://openreview.net/forum?id=pQYwkpYmLy
+
+    Awards:
+      - title: Outstanding Graduate
+        date: 2025
+        awarder: Zhejiang University
+
+      - title: Academic Excellence Model
+        date: 2024
+        awarder: Zhejiang University
+        summary: Also awarded in 2022 and 2023.
+
+      - title: Outstanding Student in AI & ML Summer Project
+        date: 2023
+        awarder: University of Cambridge
+
+      - title: National Second Prize, Advanced Mathematics Competition of China
+        date: 2022
+        awarder: Chinese Mathematical Society
+
+    Competitions:
+      - name: ASC Student Supercomputer Challenge
+        start_date: 2024
+        end_date: 2024
+        summary: National Second Prize.
+        highlights:
+          - Built an HPC system from hardware to software and optimized LLM inference with KV caching and batching.
+
+      - name: ACM-IPCC International Parallel Computing Challenge
+        start_date: 2022
+        end_date: 2022
+        summary: National Second Prize.
+        highlights:
+          - Reduced program runtime from approximately 13 minutes to 200 milliseconds using MPI, CUDA, and SIMD.
+
+    Skills:
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, C, C++"
+
+      - name: Machine Learning
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, Hugging Face Transformers, verl, TRL"
+
+      - name: Systems
+        level: Advanced
+        icon: fa-solid fa-server
+        keywords: "Linux, Git, LaTeX, CUDA, MPI, HPC"
+
+    Languages:
+      - name: Chinese
+        summary: Native
+
+      - name: English
+        summary: Fluent
