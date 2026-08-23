@@ -32,7 +32,7 @@ I am a Ph.D. student in Computer Science at the [University of Illinois Chicago]
 
 Before joining UIC, I received my B.Eng. in Automation (Control & Robotics) from [Zhejiang University](https://www.zju.edu.cn/english/) through [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/), where I worked on dexterous robotic manipulation with Prof. [Qi Ye](https://person.zju.edu.cn/en/yeqi).
 
-My research centers on three directions: **world models**, **AI agents**, and **causal representation learning**. I am particularly interested in building world models that capture how environments naturally evolve over time, and in developing self-evolving agents that improve through **verification asymmetry**—the idea that evaluating a solution can be much easier than generating one.
+My research centers on three directions: **AI agents**, **world models**, and **causal representation learning**. I study how agents can continually improve themselves by leveraging **verification asymmetry**. I am also interested in world models that capture how environments naturally evolve over time, as well as causal representation learning for understanding the underlying structure of complex environments.
 
 I am always happy to discuss research and potential collaborations. Please feel free to reach out by email.
 
