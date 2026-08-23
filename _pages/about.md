@@ -8,9 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Chicago, Illinois</p>
-    <p><a href="https://www.cs.uic.edu/">University of Illinois Chicago</a></p>
 
 selected_papers: true
 social: true
