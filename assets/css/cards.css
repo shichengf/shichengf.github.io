@@ -6,6 +6,16 @@
   box-shadow: 0 0.125rem 0.4rem rgba(0, 0, 0, 0.08);
 }
 
+.social a[title="Hugging Face"] svg {
+  display: inline-block;
+  margin-bottom: 0;
+  vertical-align: -0.125em;
+}
+
+.social .contact-icons a[title="Hugging Face"] svg {
+  height: 3.5rem;
+}
+
 .education-section {
   clear: both;
   width: 100%;
