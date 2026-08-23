@@ -5,6 +5,20 @@
   background: var(--global-card-bg-color);
   box-shadow: 0 0.125rem 0.4rem rgba(0, 0, 0, 0.08);
 }
+.social a[title="Hugging Face"] svg {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.social .contact-icons a[title="Hugging Face"] svg {
+  height: 3.5rem;
+  vertical-align: -0.06em;
+}
+
+.navbar .navbar-brand.social a[title="Hugging Face"] svg {
+  margin-bottom: 0;
+  vertical-align: -0.08em;
+}
 
 .education-section {
   clear: both;
