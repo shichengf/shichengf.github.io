@@ -6,8 +6,14 @@
   box-shadow: 0 0.125rem 0.4rem rgba(0, 0, 0, 0.08);
 }
 
+.education-section {
+  clear: both;
+  width: 100%;
+  padding-top: 0.25rem;
+}
+
 .education-list {
-  width: calc(70% - 1rem);
+  width: 100%;
 }
 
 .education-card {
@@ -49,6 +55,12 @@
 
 .education-card p:last-child {
   margin-bottom: 0 !important;
+}
+
+.education-card .education-link,
+.education-card .education-link:visited {
+  color: var(--global-theme-color);
+  font-weight: 600;
 }
 
 .publications ol.bibliography > li {
@@ -102,10 +114,6 @@
 }
 
 @media (max-width: 767.98px) {
-  .education-list {
-    width: 100%;
-  }
-
   .education-card .card-body {
     align-items: flex-start !important;
   }

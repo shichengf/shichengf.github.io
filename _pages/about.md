@@ -30,9 +30,15 @@ latest_posts:
 
 I am a Ph.D. student in Computer Science at the [University of Illinois Chicago](https://www.uic.edu/), where I am fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). I also work closely with Prof. [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html) at Carnegie Mellon University. Since August 2026, I have been a part-time Research Intern at **Aether AI**.
 
+Before joining UIC, I received my B.Eng. in Automation (Control & Robotics) from [Zhejiang University](https://www.zju.edu.cn/english/) through [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/), where I worked on dexterous robotic manipulation with Prof. [Qi Ye](https://person.zju.edu.cn/en/yeqi).
+
 My research lies at the intersection of **causality** and **agentic AI**. I am interested in learning systems that recover evolving mechanisms, build reusable agent capabilities, and produce verifiable behavior and rewards. My current interests include **causal representation learning**, **world models**, **AI agents**, and **LLM post-training**.
 
-## education
+I am always happy to discuss research and potential collaborations. Please feel free to reach out by email.
+
+<div class="education-section">
+
+<h2 id="education">education</h2>
 
 <div class="education-list">
   <div class="card education-card">
@@ -66,7 +72,7 @@ My research lies at the intersection of **causality** and **agentic AI**. I am i
         </div>
         <p class="card-text"><strong>B.Eng. in Automation (Control &amp; Robotics)</strong></p>
         <p class="card-text">
-          <a href="http://ckc.zju.edu.cn/ckcen/"><strong>Chu Kochen Honors College</strong></a> ·
+          <a class="education-link" href="http://ckc.zju.edu.cn/ckcen/">Chu Kochen Honors College</a> ·
           <strong>GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)</strong>
         </p>
         <p class="card-text small">
@@ -77,4 +83,4 @@ My research lies at the intersection of **causality** and **agentic AI**. I am i
   </div>
 </div>
 
-I am always happy to discuss research and potential collaborations. Please feel free to reach out by email.
+</div>
