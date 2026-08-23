@@ -26,56 +26,50 @@ latest_posts:
   limit: 3
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
+
 I am a Ph.D. student in Computer Science at the [University of Illinois Chicago](https://www.uic.edu/), where I am fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). I also work closely with Prof. [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html) at Carnegie Mellon University. Since August 2026, I have been a part-time Research Intern at **Aether AI**.
 
 My research lies at the intersection of **causality** and **agentic AI**. I am interested in learning systems that recover evolving mechanisms, build reusable agent capabilities, and produce verifiable behavior and rewards. My current interests include **causal representation learning**, **world models**, **AI agents**, and **LLM post-training**.
 
 ## education
 
-<div class="row">
-  <div class="col-md-6 mb-3">
-    <div class="card h-100 shadow-sm">
-      <div class="card-body">
-        <div class="d-flex align-items-center mb-3">
-          <img
-            src="{{ '/images/UIC_logo.svg' | relative_url }}"
-            alt="University of Illinois Chicago logo"
-            class="mr-3"
-            style="width: 58px; height: 58px; object-fit: contain"
-          >
-          <div>
-            <h5 class="card-title mb-1"><a href="https://www.uic.edu/">University of Illinois Chicago</a></h5>
-            <span class="text-muted small">Aug 2025 – Present</span>
-          </div>
+<div class="education-list">
+  <div class="card education-card">
+    <div class="card-body d-flex align-items-center">
+      <a class="education-logo" href="https://www.uic.edu/">
+        <img src="{{ '/images/UIC_logo.svg' | relative_url }}" alt="University of Illinois Chicago logo">
+      </a>
+      <div class="education-details flex-grow-1">
+        <div class="d-flex flex-wrap justify-content-between align-items-baseline">
+          <h5 class="card-title"><a href="https://www.uic.edu/">University of Illinois Chicago</a></h5>
+          <span class="text-muted small">Aug 2025 – Present</span>
         </div>
-        <p class="card-text mb-2"><strong>Ph.D. in Computer Science</strong></p>
-        <p class="card-text small mb-0">
-          Advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en">Philip S. Yu</a><br>
-          Research: Causality, World Models, AI Agents, and LLM Post-Training
+        <p class="card-text"><strong>Ph.D. in Computer Science</strong></p>
+        <p class="card-text small">
+          Advised by Prof. <a href="https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en">Philip S. Yu</a> · Research in Causality, World
+          Models, AI Agents, and LLM Post-Training
         </p>
       </div>
     </div>
   </div>
 
-  <div class="col-md-6 mb-3">
-    <div class="card h-100 shadow-sm">
-      <div class="card-body">
-        <div class="d-flex align-items-center mb-3">
-          <img
-            src="{{ '/images/zju_logo.svg' | relative_url }}"
-            alt="Zhejiang University logo"
-            class="mr-3"
-            style="width: 58px; height: 58px; object-fit: contain"
-          >
-          <div>
-            <h5 class="card-title mb-1"><a href="https://www.zju.edu.cn/english/">Zhejiang University</a></h5>
-            <span class="text-muted small">Sep 2021 – Jun 2025</span>
-          </div>
+  <div class="card education-card">
+    <div class="card-body d-flex align-items-center">
+      <a class="education-logo" href="https://www.zju.edu.cn/english/">
+        <img src="{{ '/images/zju_logo.svg' | relative_url }}" alt="Zhejiang University logo">
+      </a>
+      <div class="education-details flex-grow-1">
+        <div class="d-flex flex-wrap justify-content-between align-items-baseline">
+          <h5 class="card-title"><a href="https://www.zju.edu.cn/english/">Zhejiang University</a></h5>
+          <span class="text-muted small">Sep 2021 – Jun 2025</span>
         </div>
-        <p class="card-text mb-1"><strong>B.Eng. in Automation (Control &amp; Robotics)</strong></p>
-        <p class="card-text mb-1"><a href="http://ckc.zju.edu.cn/ckcen/"><strong>Chu Kochen Honors College</strong></a></p>
-        <p class="card-text mb-1"><strong>GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)</strong></p>
-        <p class="card-text small mb-0">
+        <p class="card-text"><strong>B.Eng. in Automation (Control &amp; Robotics)</strong></p>
+        <p class="card-text">
+          <a href="http://ckc.zju.edu.cn/ckcen/"><strong>Chu Kochen Honors College</strong></a> ·
+          <strong>GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)</strong>
+        </p>
+        <p class="card-text small">
           Outstanding Graduate · Dexterous robotic manipulation with Prof. <a href="https://person.zju.edu.cn/en/yeqi">Qi Ye</a>
         </p>
       </div>
