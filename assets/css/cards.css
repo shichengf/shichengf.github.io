@@ -6,6 +6,7 @@
   box-shadow: 0 0.125rem 0.4rem rgba(0, 0, 0, 0.08);
 }
 
+/*! purgecss start ignore */
 .social a[title="Hugging Face"] svg {
   display: inline-block;
   margin-bottom: 0;
@@ -20,6 +21,7 @@
   margin-bottom: 0;
   vertical-align: -0.08em;
 }
+/*! purgecss end ignore */
 
 .education-section {
   clear: both;
