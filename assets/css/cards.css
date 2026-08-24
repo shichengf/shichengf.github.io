@@ -26,6 +26,11 @@
   padding-top: 0.25rem;
 }
 
+/* The about layout supplies these section labels in lowercase. */
+.post article > h2::first-letter {
+  text-transform: uppercase;
+}
+
 .education-list {
   width: 100%;
 }
