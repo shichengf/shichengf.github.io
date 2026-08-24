@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Student in Computer Science · University of Illinois Chicago
 
@@ -35,7 +35,7 @@ I am always happy to discuss research and potential collaborations. Please feel 
 
 <div class="education-section">
 
-<h2 id="education">education</h2>
+<h2 id="education">Education</h2>
 
 <div class="education-list">
   <div class="card education-card">
