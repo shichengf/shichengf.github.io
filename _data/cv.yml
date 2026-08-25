@@ -179,19 +179,8 @@ cv:
         awarder: Chinese Mathematical Society
 
     Competitions:
-      - name: ASC Student Supercomputer Challenge
-        start_date: 2024
-        end_date: 2024
-        summary: National Second Prize.
-        highlights:
-          - Built an HPC system from hardware to software and optimized LLM inference with KV caching and batching.
-
-      - name: ACM-IPCC International Parallel Computing Challenge
-        start_date: 2022
-        end_date: 2022
-        summary: National Second Prize.
-        highlights:
-          - Reduced program runtime from approximately 13 minutes to 200 milliseconds using MPI, CUDA, and SIMD.
+      - bullet: "**ASC Student Supercomputer Challenge**, National Second Prize, *2024*"
+      - bullet: "**ACM-IPCC International Parallel Computing Challenge**, National Second Prize, *2022*"
 
     Skills:
       - name: Programming
