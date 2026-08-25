@@ -81,3 +81,35 @@ I am always happy to discuss research and potential collaborations. Please feel 
 </div>
 
 </div>
+
+## Invited Talks
+
+<div class="talk-list">
+  <div class="talk-row">
+    <a class="talk-company-logo" href="https://corporate.visa.com/" aria-label="Visa">
+      <img src="{{ '/images/visa-logo.svg' | relative_url }}" alt="Visa logo">
+    </a>
+    <div>
+      <strong><a href="https://arxiv.org/abs/2608.02441">Agentic Commerce World</a></strong>
+      <div class="text-muted small">Invited talk at <a href="https://corporate.visa.com/">Visa</a></div>
+    </div>
+  </div>
+  <div class="talk-row">
+    <a class="talk-company-logo" href="https://www.fidelity.com/" aria-label="Fidelity Investments">
+      <img src="{{ '/images/fidelity-logo.svg' | relative_url }}" alt="Fidelity Investments logo">
+    </a>
+    <div>
+      <strong><a href="https://arxiv.org/abs/2608.02441">Agentic Commerce World</a></strong>
+      <div class="text-muted small">Invited talk at <a href="https://www.fidelity.com/">Fidelity Investments</a></div>
+    </div>
+  </div>
+</div>
+
+## Reviewer
+
+<div class="reviewer-list">
+  <div class="reviewer-row">
+    <strong class="reviewer-year">2026</strong>
+    <span>NeurIPS · ICLR · KDD · ACM Computing Surveys (CSUR)</span>
+  </div>
+</div>
