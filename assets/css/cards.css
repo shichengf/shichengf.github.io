@@ -1,4 +1,6 @@
 .education-card,
+.talk-row,
+.reviewer-row,
 .publications ol.bibliography > li {
   border: 1px solid var(--global-divider-color);
   border-radius: 0.65rem;
@@ -36,6 +38,48 @@
 
 .education-list {
   width: 100%;
+}
+
+.talk-list,
+.reviewer-list {
+  width: 100%;
+}
+
+.talk-row,
+.reviewer-row {
+  display: flex;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.65rem;
+}
+
+.talk-company-logo {
+  display: flex;
+  flex: 0 0 92px;
+  align-items: center;
+  justify-content: center;
+  margin-right: 1rem;
+}
+
+.talk-company-logo img {
+  display: block;
+  width: 82px;
+  height: 28px;
+  object-fit: contain;
+}
+
+.talk-row strong {
+  font-size: 1.02rem;
+}
+
+.reviewer-row {
+  align-items: baseline;
+}
+
+.reviewer-year {
+  flex: 0 0 64px;
+  margin-right: 1rem;
+  color: var(--global-theme-color);
 }
 
 .education-card {
@@ -192,6 +236,26 @@
   .education-card .education-logo img {
     width: 48px;
     height: 48px;
+  }
+
+  .talk-company-logo {
+    flex-basis: 72px;
+    margin-right: 0.75rem;
+  }
+
+  .talk-company-logo img {
+    width: 66px;
+    height: 24px;
+  }
+
+  .reviewer-row {
+    display: block;
+  }
+
+  .reviewer-year {
+    display: block;
+    margin-right: 0;
+    margin-bottom: 0.2rem;
   }
 
   .publications ol.bibliography > li > .row {
