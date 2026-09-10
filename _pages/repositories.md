@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=3">
+
 {% if site.data.repositories.github_users %}
 
 ## GitHub profile
@@ -62,3 +64,16 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
+
+<details class="visitor-map-section">
+  <summary>Visitor map</summary>
+  <div class="visitor-map">
+    <a href="https://mapmyvisitors.com/web/1c860" title="View visitor statistics">
+      <img
+        src="https://mapmyvisitors.com/map.png?d=vcFjque6LQ6l8n2-dYwJBGe6TI1NCDmDhf_C7kbasIQ&amp;cl=ffffff"
+        alt="Map of website visitors"
+        loading="lazy"
+      >
+    </a>
+  </div>
+</details>
