@@ -46,6 +46,7 @@
 }
 
 .visitor-map {
+  display: block;
   width: 100%;
   max-width: 360px;
   padding: 0.85rem;
@@ -65,15 +66,30 @@
 }
 
 .visitor-map-section {
-  padding-top: 0.75rem;
-  margin-top: 2rem;
-  border-top: 1px solid var(--global-divider-color);
+  clear: both;
+  padding-top: 1rem;
+  margin-top: 1rem;
 }
 
-.visitor-map-section summary {
-  width: fit-content;
-  cursor: pointer;
-  font-size: 0.9rem;
+.post article > .social {
+  display: flex;
+  flex-direction: column;
+}
+
+.post article > .social > .contact-icons {
+  order: 2;
+}
+
+.post article > .social > .contact-note {
+  display: contents;
+}
+
+.post article > .social .visitor-map-section {
+  order: 1;
+}
+
+.post article > .social .contact-note-text {
+  order: 3;
 }
 
 .talk-row,

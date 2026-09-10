@@ -7,7 +7,12 @@ first_name: Shicheng
 middle_name:
 last_name: Fan
 contact_note: >
-  Always happy to chat about research and potential collaborations.
+  <div class="contact-note-text">Always happy to chat about research and potential collaborations.</div>
+  <div class="visitor-map-section" aria-label="Map of website visitors">
+    <a class="visitor-map" href="https://mapmyvisitors.com/web/1c860" title="View visitor statistics">
+      <img src="https://mapmyvisitors.com/map.png?d=vcFjque6LQ6l8n2-dYwJBGe6TI1NCDmDhf_C7kbasIQ&amp;cl=ffffff" alt="Map of website visitors">
+    </a>
+  </div>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Shicheng Fan is a Ph.D. student in Computer Science at the University of Illinois Chicago.
   His research interests include Causality, World Models, AI Agents, and LLM Post-Training.
