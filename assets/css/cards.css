@@ -44,9 +44,9 @@
 
 .visitor-map {
   width: 100%;
-  max-width: 420px;
+  max-width: 360px;
   padding: 0.85rem;
-  margin: 0 auto;
+  margin: 0.75rem auto 0;
   overflow: hidden;
   border: 1px solid var(--global-divider-color);
   border-radius: 0.65rem;
@@ -59,6 +59,18 @@
   max-width: 100%;
   height: auto;
   margin: 0 auto;
+}
+
+.visitor-map-section {
+  padding-top: 0.75rem;
+  margin-top: 2rem;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.visitor-map-section summary {
+  width: fit-content;
+  cursor: pointer;
+  font-size: 0.9rem;
 }
 
 .talk-row,
