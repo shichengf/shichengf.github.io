@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=2">
+<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=3">
 
 I am a Ph.D. student in Computer Science at the [University of Illinois Chicago](https://www.uic.edu/), where I am fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). I also work closely with Prof. [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html) at Carnegie Mellon University. Since August 2026, I have been a part-time Research Intern at **Aether AI**.
 
@@ -112,4 +112,23 @@ I am always happy to discuss research and potential collaborations. Please feel 
     <strong class="reviewer-year">2026</strong>
     <span>NeurIPS · ICLR · KDD · ACM Computing Surveys (CSUR)</span>
   </div>
+</div>
+
+## Visitors
+
+<div class="visitor-map" aria-label="Map of website visitors">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=vcFjque6LQ6l8n2-dYwJBGe6TI1NCDmDhf_C7kbasIQ&amp;cl=ffffff&amp;w=a"
+  ></script>
+  <noscript>
+    <a href="https://mapmyvisitors.com/web/1c860" title="View visitor statistics">
+      <img
+        src="https://mapmyvisitors.com/map.png?d=vcFjque6LQ6l8n2-dYwJBGe6TI1NCDmDhf_C7kbasIQ&amp;cl=ffffff"
+        alt="Map of website visitors"
+        loading="lazy"
+      >
+    </a>
+  </noscript>
 </div>
