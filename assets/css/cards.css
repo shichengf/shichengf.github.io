@@ -42,6 +42,25 @@
   width: 100%;
 }
 
+.visitor-map {
+  width: 100%;
+  max-width: 420px;
+  padding: 0.85rem;
+  margin: 0 auto;
+  overflow: hidden;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.65rem;
+  background: var(--global-card-bg-color);
+  box-shadow: 0 0.125rem 0.4rem rgba(0, 0, 0, 0.08);
+}
+
+.visitor-map img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
 .talk-row,
 .reviewer-row {
   display: flex;
