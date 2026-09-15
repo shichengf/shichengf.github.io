@@ -25,7 +25,7 @@ latest_posts:
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=3">
 
-I am a Ph.D. student in Computer Science at the [University of Illinois Chicago](https://www.uic.edu/), where I am fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). I also work closely with Prof. [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html) at Carnegie Mellon University. Since August 2026, I have been a part-time Research Intern at **Aether AI**.
+I am a Ph.D. student in Computer Science at the [University of Illinois Chicago](https://www.uic.edu/), where I am fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). I also work closely with Prof. [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html) at Carnegie Mellon University. Since August 2026, I have been a part-time Research Scientist Intern at [**Aether AI**](https://aetherlabs.ai/).
 
 Before joining UIC, I received my B.Eng. in Automation (Control & Robotics) from [Zhejiang University](https://www.zju.edu.cn/english/) through [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/), where I worked on dexterous robotic manipulation with Prof. [Qi Ye](https://person.zju.edu.cn/en/yeqi).
 
@@ -80,6 +80,26 @@ I am always happy to discuss research and potential collaborations. Please feel 
   </div>
 </div>
 
+</div>
+
+## Experience
+
+<div class="education-list">
+  <div class="card education-card">
+    <div class="card-body d-flex align-items-center">
+      <a class="education-logo" href="https://aetherlabs.ai/">
+        <img src="{{ '/images/aether-ai-logo.svg' | relative_url }}" alt="Aether AI logo">
+      </a>
+      <div class="education-details flex-grow-1">
+        <div class="d-flex flex-wrap justify-content-between align-items-baseline">
+          <h5 class="card-title"><a href="https://aetherlabs.ai/">Aether AI</a></h5>
+          <span class="text-muted small">Aug 2026 – Present</span>
+        </div>
+        <p class="card-text"><strong>Research Scientist Intern</strong></p>
+        <p class="card-text small">Part-time</p>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## Invited Talks
