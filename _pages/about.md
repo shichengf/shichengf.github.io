@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=4">
+<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=5">
 
 I am a Ph.D. student in Computer Science at the [University of Illinois Chicago](https://www.uic.edu/), where I am fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). I also work closely with Prof. [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html) at Carnegie Mellon University. Since August 2026, I have been a part-time Research Scientist Intern at [**Aether AI**](https://aetherlabs.ai/).
 
@@ -95,7 +95,7 @@ I am always happy to discuss research and potential collaborations. Please feel 
           <h5 class="card-title"><a href="https://aetherlabs.ai/">Aether AI</a></h5>
           <span class="text-muted small">Aug 2026 – Present</span>
         </div>
-        <p class="card-text experience-role"><strong>Research Scientist Intern</strong></p>
+        <p class="card-text text-muted small">Research Scientist Intern</p>
       </div>
     </div>
   </div>
