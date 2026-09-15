@@ -167,6 +167,10 @@
   margin-bottom: 0 !important;
 }
 
+.education-card .experience-role {
+  font-size: 1.15rem;
+}
+
 .education-card .education-link,
 .education-card .education-link:visited {
   color: var(--global-theme-color);
