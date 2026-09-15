@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=3">
+<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=4">
 
 I am a Ph.D. student in Computer Science at the [University of Illinois Chicago](https://www.uic.edu/), where I am fortunate to be advised by Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en). I also work closely with Prof. [Kun Zhang](https://www.cmu.edu/dietrich/philosophy/people/faculty/zhang.html) at Carnegie Mellon University. Since August 2026, I have been a part-time Research Scientist Intern at [**Aether AI**](https://aetherlabs.ai/).
 
@@ -95,8 +95,7 @@ I am always happy to discuss research and potential collaborations. Please feel 
           <h5 class="card-title"><a href="https://aetherlabs.ai/">Aether AI</a></h5>
           <span class="text-muted small">Aug 2026 – Present</span>
         </div>
-        <p class="card-text"><strong>Research Scientist Intern</strong></p>
-        <p class="card-text small">Part-time</p>
+        <p class="card-text experience-role"><strong>Research Scientist Intern</strong></p>
       </div>
     </div>
   </div>
@@ -121,6 +120,15 @@ I am always happy to discuss research and potential collaborations. Please feel 
     <div>
       <strong><a href="https://arxiv.org/abs/2608.02441">Agentic Commerce World</a></strong>
       <div class="text-muted small">Invited talk at <a href="https://www.fidelity.com/">Fidelity Investments</a></div>
+    </div>
+  </div>
+  <div class="talk-row">
+    <a class="talk-company-logo" href="https://www.alibabagroup.com/" aria-label="Alibaba">
+      <img src="{{ '/images/alibaba-logo.svg' | relative_url }}" alt="Alibaba logo">
+    </a>
+    <div>
+      <strong><a href="https://arxiv.org/abs/2604.01687">CoEvoSkills</a></strong>
+      <div class="text-muted small">Invited talk at <a href="https://www.alibabagroup.com/">Alibaba</a></div>
     </div>
   </div>
 </div>
