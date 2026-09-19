@@ -122,16 +122,16 @@
   font-size: 1.02rem;
 }
 
-.reviewer-row,
-.news-row {
+.reviewer-row {
   align-items: baseline;
 }
 
+/* Body text, not the theme color: these labels are not links. <strong> carries the weight. */
 .reviewer-year,
 .news-date {
   flex: 0 0 64px;
   margin-right: 1rem;
-  color: var(--global-theme-color);
+  color: var(--global-text-color);
 }
 
 .news-date {
