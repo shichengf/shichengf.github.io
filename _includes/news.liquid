@@ -13,7 +13,7 @@
         {% assign news_limit = news_size %}
       {% endif %}
       {% for item in news limit: news_limit %}
-        <div class="news-row">
+        <div class="news-row{% if item.highlight %} news-highlight{% endif %}">
           <strong class="news-date">{{ item.date | date: '%b %Y' }}</strong>
           <div class="news-content">
             {% if item.inline %}

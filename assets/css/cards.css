@@ -168,6 +168,14 @@
   overflow-wrap: anywhere;
 }
 
+/* Highlighted cards: acceptances and papers that got outside attention.
+   The plain background is the fallback for browsers without color-mix(). */
+.news-row.news-highlight {
+  border-color: var(--global-theme-color);
+  background: var(--global-card-bg-color);
+  background: color-mix(in srgb, var(--global-theme-color) 8%, var(--global-card-bg-color));
+}
+
 .education-card {
   margin-bottom: 0.65rem !important;
 }

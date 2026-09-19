@@ -4,6 +4,6 @@ title: News
 permalink: /news/
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=7">
+<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=8">
 
 {% include news.liquid %}
