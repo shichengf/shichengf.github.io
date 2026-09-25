@@ -141,13 +141,13 @@
   max-height: 26rem;
   padding-right: 0.35rem;
   overflow-y: auto;
-  overscroll-behavior: contain;
-  scrollbar-width: thin;
+  scrollbar-gutter: stable;
+  scrollbar-width: auto;
   scrollbar-color: var(--global-divider-color) transparent;
 }
 
 .news-scroll::-webkit-scrollbar {
-  width: 6px;
+  width: 12px;
 }
 
 .news-scroll::-webkit-scrollbar-track {
@@ -430,4 +430,9 @@
   .experience-recognition {
     grid-column: 1 / -1;
   }
+}
+
+/* The official Kling wordmark is monochrome. */
+html[data-theme="dark"] .talk-company-logo .kling-logo {
+  filter: invert(1);
 }
