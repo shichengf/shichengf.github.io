@@ -4,8 +4,9 @@ github_users:
 repo_description_lines_max: 3
 
 github_repos:
+  - AetherLabsAI/RSIAgent
+  - Zhang-Henry/CoEvoSkills
   - shichengf/ACWorld
   - shichengf/trace
-  - shichengf/CorVer
   - shichengf/mosaic
-  - Zhang-Henry/CoEvoSkills
+  - shichengf/CorVer

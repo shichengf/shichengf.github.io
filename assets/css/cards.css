@@ -372,3 +372,65 @@
     width: 100% !important;
   }
 }
+
+/* Give the research experience room for its logo, method, and results. */
+.experience-card .card-body {
+  padding: 1.4rem;
+}
+
+.experience-header {
+  display: grid;
+  grid-template-columns: 144px minmax(0, 1fr);
+  gap: 0.4rem 1.4rem;
+  align-items: center;
+  margin-bottom: 1.1rem;
+}
+
+.experience-logo {
+  grid-row: 1 / span 2;
+  display: block;
+  overflow: hidden;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  background: #fff;
+}
+
+.experience-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.experience-role,
+.experience-recognition {
+  grid-column: 2;
+  min-width: 0;
+}
+
+.experience-card .experience-work p {
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.experience-card .experience-recognition {
+  line-height: 1.5;
+}
+
+@media (max-width: 575.98px) {
+  .experience-card .card-body {
+    padding: 1rem;
+  }
+
+  .experience-header {
+    grid-template-columns: 96px minmax(0, 1fr);
+    gap: 0.85rem 1rem;
+  }
+
+  .experience-logo {
+    grid-row: 1;
+  }
+
+  .experience-recognition {
+    grid-column: 1 / -1;
+  }
+}

@@ -4,13 +4,15 @@ cv:
   email: shicheng0222@gmail.com
   location: Chicago, Illinois
   image: ""
-  summary: Ph.D. student at the University of Illinois Chicago working on causality, world models, AI agents, and LLM post-training.
+  summary: >-
+    Ph.D. student at the University of Illinois Chicago studying how **AI agents can recursively improve their own memory, harnesses, and self-evolution mechanisms**.
+    **First author papers: [ICML 2026](https://arxiv.org/abs/2601.21135); [NeurIPS 2026](https://arxiv.org/abs/2605.05524); [COLM 2026](https://arxiv.org/abs/2604.01687)**.
 
   social_networks:
     - network: GitHub
       username: shichengf
     - network: LinkedIn
-      username: shicheng-fan-072935308
+      username: shichengf0222
 
   sections:
     Education:
@@ -24,7 +26,7 @@ cv:
         highlights:
           - "Advisor: Prof. Philip S. Yu"
           - "Collaborator: Prof. Kun Zhang, Carnegie Mellon University"
-          - "Research: Causality, World Models, AI Agents, and LLM Post-Training"
+          - "Research: Recursive Self-improvement of AI Agents and Causal Representation Learning"
 
       - institution: Zhejiang University
         location: Hangzhou, China
@@ -36,24 +38,30 @@ cv:
         score: "GPA: 3.98/4.0 · Rank: 6/121 (Top 5%)"
         highlights:
           - Chu Kochen Honors College
-          - Outstanding Graduate
+          - "**Outstanding Graduate**"
 
     Experience:
       - company: Aether AI
-        position: Part-time Research Intern
+        position: Research Scientist Intern (part-time)
         start_date: 2026-08
         end_date: present
+        summary: Research on self-evolving agents through autonomous exploration, verification, and persistent memory.
+        highlights:
+          - "RSIAgent combines autonomous exploration with iterative memory refinement, using verified experience from each round to guide the next. [Project page](https://aetherlabsai.github.io/RSIAgent/)."
+          - "Built on open-source GLM-5.3 and Kimi-K3, RSIAgent surpasses GPT-6 Astra in the paper's reported partial-credit scores: 78.98 vs. 72.60 on OSWorld 2.0 and 84.82 vs. 82.26 on Agents' Last Exam (Near-term)."
+          - "**[Hugging Face Daily Papers #6](https://huggingface.co/papers/date/2026-09-15)** (Sep 15, 2026); **[Headline feature in Synced (机器之心), an AI news outlet](https://mp.weixin.qq.com/s/bg0tkvHsKTZ88uBNKUdVTQ)**."
 
       - company: University of Illinois Chicago
         position: Graduate Researcher
         location: Chicago, Illinois
         start_date: 2025-08
         end_date: present
-        summary: Research on causal representation learning, verifiable agent behavior, agent skill learning, and LLM post-training.
+        summary: Research on self-evolving agent skills, verification, and causal representation learning.
         highlights:
-          - Developed TRACE for recovering continuously evolving causal mechanisms.
-          - Developed MOSAIC for interpretable module discovery in scientific time series.
-          - Worked on verifiable rewards, self-evolving skills, and auditable agent environments.
+          - "CoEvoSkills evolves reusable skills through co-evolutionary verification; accepted to COLM 2026."
+          - "TRACE recovers continuously evolving causal mechanisms; accepted to ICML 2026."
+          - "MOSAIC discovers interpretable modules in scientific time series; accepted to NeurIPS 2026."
+          - Worked on verifiable rewards and auditable agent environments.
 
       - company: Zhejiang University
         position: Undergraduate Researcher
@@ -64,15 +72,68 @@ cv:
         highlights:
           - Studied goal-driven hand-object interaction and cross-embodiment retargeting.
 
+    Invited Talks:
+      - bullet: "**[Kuaishou (Kling AI)](https://klingai.com/)**: [RSIAgent](https://arxiv.org/abs/2609.15364), Sep 2026."
+      - bullet: "**[Fidelity](https://www.fidelity.com/)**: [Agentic Commerce World](https://arxiv.org/abs/2608.02441), Sep 2026."
+      - bullet: "**[Visa](https://corporate.visa.com/)**: [Agentic Commerce World](https://arxiv.org/abs/2608.02441), Sep 2026."
+      - bullet: "**[Alibaba](https://www.alibabagroup.com/)**: [CoEvoSkills](https://arxiv.org/abs/2604.01687), Jun 2026."
+
+    Skills:
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, C, C++"
+
+      - name: Machine Learning
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, Hugging Face Transformers, verl, TRL"
+
+      - name: Systems
+        level: Advanced
+        icon: fa-solid fa-server
+        keywords: "Linux, Git, LaTeX, CUDA, MPI, HPC"
+
+    Languages:
+      - name: Chinese
+        summary: Native
+
+      - name: English
+        summary: Fluent
+
     Publications:
-      - title: "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning"
+      - title: "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments"
+        authors:
+          - Sibo Zhu
+          - Shicheng Fan
+          - Xinyue Wang
+          - Wenyi Wu
+          - Kun Zhou
+          - Biwei Huang
+        publisher: Under review at ICLR 2027
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2609.15364
+        summary: >-
+          Agents autonomously propose tasks, act, verify outcomes, and retain reusable experience in memory to guide broad-then-deep exploration. This RSI loop lets open-source GLM-5.3 and Kimi-K3 surpass GPT-6 Astra in partial-credit scores on OSWorld 2.0 (78.98 vs. 72.60) and Agents' Last Exam (84.82 vs. 82.26).
+          **[Hugging Face Daily Papers #6](https://huggingface.co/papers/date/2026-09-15)** (Sep 15, 2026); **[Headline feature in Synced (机器之心), an AI news outlet](https://mp.weixin.qq.com/s/bg0tkvHsKTZ88uBNKUdVTQ)**.
+
+      - title: "Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce"
         authors:
           - Shicheng Fan
+          - Mingdai Yang
+          - Duohao Wang
+          - Canyu Chen
+          - Yongfeng Zhang
+          - Hua Wei
+          - Manling Li
+          - Julian McAuley
           - Kun Zhang
-          - Lu Cheng
-        publisher: International Conference on Machine Learning (ICML)
+          - Philip S. Yu
+          - Kejing Yu
+          - Zhiwei Liu
+        publisher: arXiv preprint
         releaseDate: 2026
-        url: https://arxiv.org/abs/2601.21135
+        url: https://arxiv.org/abs/2608.02441
 
       - title: "CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification"
         authors:
@@ -93,35 +154,14 @@ cv:
         releaseDate: 2026
         url: https://arxiv.org/abs/2604.01687
 
-      - title: "Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce"
+      - title: "TRACE: Trajectory Recovery for Continuous Mechanism Evolution in Causal Representation Learning"
         authors:
           - Shicheng Fan
-          - Mingdai Yang
-          - Duohao Wang
-          - Canyu Chen
-          - Yongfeng Zhang
-          - Hua Wei
-          - Manling Li
-          - Julian McAuley
           - Kun Zhang
-          - Philip S. Yu
-          - Kejing Yu
-          - Zhiwei Liu
-        publisher: arXiv preprint
-        releaseDate: 2026
-        url: https://arxiv.org/abs/2608.02441
-
-      - title: "Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering"
-        authors:
-          - Shicheng Fan
-          - Haochang Hao
-          - Dehai Min
-          - Weihao Liu
-          - Philip S. Yu
           - Lu Cheng
-        publisher: arXiv preprint
+        publisher: International Conference on Machine Learning (ICML)
         releaseDate: 2026
-        url: https://arxiv.org/abs/2605.29648
+        url: https://arxiv.org/abs/2601.21135
 
       - title: "MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series"
         authors:
@@ -132,9 +172,30 @@ cv:
           - Kun Zhang
           - Yihang Wang
           - Lu Cheng
-        publisher: arXiv preprint
+        publisher: Conference on Neural Information Processing Systems (NeurIPS); Accepted
         releaseDate: 2026
         url: https://arxiv.org/abs/2605.05524
+
+      - title: "Beyond Math and Code: Lightweight Corpus-Grounded Process Rewards for Factual Question Answering"
+        authors:
+          - Shicheng Fan
+          - Haochang Hao
+          - Dehai Min
+          - Weihao Liu
+          - Hanrong Zhang
+          - Lingwei Wei
+          - Henry Peng Zou
+          - Chengquan Guo
+          - Jie Yang
+          - Honghui Bao
+          - Zhiwei Liu
+          - Lu Cheng
+          - Philip S. Yu
+        publisher: Under review at ICLR 2027
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2605.29648
+        summary: >-
+          Corpus co-occurrence yields sentence-level rewards that improve all 30 factual-QA settings and beat four RL baselines in 17 of 20 comparisons. Full training is 5.5–10.4× faster, averaged over Qwen3-4B and Qwen3-8B.
 
       - title: "Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents"
         authors:
@@ -159,48 +220,3 @@ cv:
         publisher: OpenReview preprint
         releaseDate: 2026
         url: https://openreview.net/forum?id=pQYwkpYmLy
-
-    Awards:
-      - title: Outstanding Graduate
-        date: 2025
-        awarder: Zhejiang University
-
-      - title: Academic Excellence Model
-        date: 2024
-        awarder: Zhejiang University
-        summary: Also awarded in 2022 and 2023.
-
-      - title: Outstanding Student in AI & ML Summer Project
-        date: 2023
-        awarder: University of Cambridge
-
-      - title: National Second Prize, Advanced Mathematics Competition of China
-        date: 2022
-        awarder: Chinese Mathematical Society
-
-    Competitions:
-      - bullet: "**ASC Student Supercomputer Challenge**, National Second Prize, *2024*"
-      - bullet: "**ACM-IPCC International Parallel Computing Challenge**, National Second Prize, *2022*"
-
-    Skills:
-      - name: Programming
-        level: Advanced
-        icon: fa-solid fa-code
-        keywords: "Python, C, C++"
-
-      - name: Machine Learning
-        level: Advanced
-        icon: fa-solid fa-brain
-        keywords: "PyTorch, Hugging Face Transformers, verl, TRL"
-
-      - name: Systems
-        level: Advanced
-        icon: fa-solid fa-server
-        keywords: "Linux, Git, LaTeX, CUDA, MPI, HPC"
-
-    Languages:
-      - name: Chinese
-        summary: Native
-
-      - name: English
-        summary: Fluent
