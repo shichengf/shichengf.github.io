@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=9">
+<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=10">
 
 {% include bib_search.liquid %}
 

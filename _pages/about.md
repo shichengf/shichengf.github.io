@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=9">
+<link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}?v=10">
 
 **First author papers: [ICML 2026](https://arxiv.org/abs/2601.21135); [NeurIPS 2026](https://arxiv.org/abs/2605.05524); [COLM 2026](https://arxiv.org/abs/2604.01687)**
 
@@ -35,43 +35,27 @@ My research explores how **AI agents can recursively improve their own memory, h
 
 I welcome research discussions and collaborations. Please feel free to reach out by email.
 
-## Invited Talks
+## Experience
 
-<div class="talk-list">
-  <div class="talk-row">
-    <a class="talk-company-logo" href="https://klingai.com/" aria-label="Kuaishou (Kling AI)">
-      <strong>Kling AI</strong>
-    </a>
-    <div>
-      <strong><a href="https://arxiv.org/abs/2609.15364">RSIAgent</a></strong>
-      <div class="text-muted small">Invited talk at <a href="https://klingai.com/">Kuaishou (Kling AI)</a>, Sep 2026</div>
-    </div>
-  </div>
-  <div class="talk-row">
-    <a class="talk-company-logo" href="https://www.fidelity.com/" aria-label="Fidelity Investments">
-      <img src="{{ '/images/fidelity-logo.svg' | relative_url }}" alt="Fidelity Investments logo">
-    </a>
-    <div>
-      <strong><a href="https://arxiv.org/abs/2608.02441">Agentic Commerce World</a></strong>
-      <div class="text-muted small">Invited talk at <a href="https://www.fidelity.com/">Fidelity Investments</a>, Sep 2026</div>
-    </div>
-  </div>
-  <div class="talk-row">
-    <a class="talk-company-logo" href="https://corporate.visa.com/" aria-label="Visa">
-      <img src="{{ '/images/visa-logo.svg' | relative_url }}" alt="Visa logo">
-    </a>
-    <div>
-      <strong><a href="https://arxiv.org/abs/2608.02441">Agentic Commerce World</a></strong>
-      <div class="text-muted small">Invited talk at <a href="https://corporate.visa.com/">Visa</a>, Sep 2026</div>
-    </div>
-  </div>
-  <div class="talk-row">
-    <a class="talk-company-logo" href="https://www.alibabagroup.com/" aria-label="Alibaba">
-      <img src="{{ '/images/alibaba-logo.svg' | relative_url }}" alt="Alibaba logo">
-    </a>
-    <div>
-      <strong><a href="https://arxiv.org/abs/2604.01687">CoEvoSkills</a></strong>
-      <div class="text-muted small">Invited talk at <a href="https://www.alibabagroup.com/">Alibaba</a>, Jun 2026</div>
+<div class="education-list">
+  <div class="card education-card experience-card">
+    <div class="card-body">
+      <div class="experience-header">
+        <a class="experience-logo" href="https://aetherlabs.ai/">
+          <img src="{{ '/images/aether-ai-logo.svg' | relative_url }}" alt="Aether AI logo" width="184" height="156">
+        </a>
+        <div class="experience-role">
+          <div class="d-flex flex-wrap justify-content-between align-items-baseline">
+            <h5 class="card-title"><a href="https://aetherlabs.ai/">Aether AI</a></h5>
+            <span class="text-muted small">Aug 2026 – Present</span>
+          </div>
+          <p class="card-text text-muted small">Research Scientist Intern</p>
+        </div>
+        <p class="experience-recognition small"><strong><a href="https://huggingface.co/papers/date/2026-09-15">Hugging Face Daily Papers #6</a></strong> <span class="text-muted">(Sep 15, 2026)</span><br><strong><a href="https://mp.weixin.qq.com/s/bg0tkvHsKTZ88uBNKUdVTQ">Headline feature in Synced (机器之心), an AI news outlet</a></strong>.</p>
+      </div>
+      <div class="experience-work">
+        <p><strong><a href="https://aetherlabsai.github.io/RSIAgent/">RSIAgent</a></strong> combines <strong>autonomous exploration and iterative memory refinement</strong>, using verified experience from each round to guide the next. Built on open-source GLM-5.3 and Kimi-K3, it surpasses <strong>GPT-6 Astra</strong> in reported partial-credit scores on OSWorld&nbsp;2.0 (<strong>78.98 vs. 72.60</strong>) and Agents'&nbsp;Last&nbsp;Exam, Near-term (<strong>84.82 vs. 82.26</strong>).</p>
+      </div>
     </div>
   </div>
 </div>
@@ -124,27 +108,43 @@ I welcome research discussions and collaborations. Please feel free to reach out
 
 </div>
 
-## Experience
+## Invited Talks
 
-<div class="education-list">
-  <div class="card education-card experience-card">
-    <div class="card-body">
-      <div class="experience-header">
-        <a class="experience-logo" href="https://aetherlabs.ai/">
-          <img src="{{ '/images/aether-ai-logo.svg' | relative_url }}" alt="Aether AI logo" width="184" height="156">
-        </a>
-        <div class="experience-role">
-          <div class="d-flex flex-wrap justify-content-between align-items-baseline">
-            <h5 class="card-title"><a href="https://aetherlabs.ai/">Aether AI</a></h5>
-            <span class="text-muted small">Aug 2026 – Present</span>
-          </div>
-          <p class="card-text text-muted small">Research Scientist Intern</p>
-        </div>
-        <p class="experience-recognition small"><strong><a href="https://huggingface.co/papers/date/2026-09-15">Hugging Face Daily Papers #6</a></strong> <span class="text-muted">(Sep 15, 2026)</span><br><strong><a href="https://mp.weixin.qq.com/s/bg0tkvHsKTZ88uBNKUdVTQ">Headline feature in Synced (机器之心), an AI news outlet</a></strong>.</p>
-      </div>
-      <div class="experience-work">
-        <p><strong><a href="https://aetherlabsai.github.io/RSIAgent/">RSIAgent</a></strong> combines <strong>autonomous exploration and iterative memory refinement</strong>, using verified experience from each round to guide the next. Built on open-source GLM-5.3 and Kimi-K3, it surpasses <strong>GPT-6 Astra</strong> in reported partial-credit scores on OSWorld&nbsp;2.0 (<strong>78.98 vs. 72.60</strong>) and Agents'&nbsp;Last&nbsp;Exam, Near-term (<strong>84.82 vs. 82.26</strong>).</p>
-      </div>
+<div class="talk-list">
+  <div class="talk-row">
+    <a class="talk-company-logo" href="https://klingai.com/" aria-label="Kuaishou (Kling AI)">
+      <img class="kling-logo" src="{{ '/images/kling-ai-logo.svg' | relative_url }}" alt="Kling AI logo" width="119" height="32">
+    </a>
+    <div>
+      <strong><a href="https://arxiv.org/abs/2609.15364">RSIAgent</a></strong>
+      <div class="text-muted small">Invited talk at <a href="https://klingai.com/">Kuaishou (Kling AI)</a>, Sep 2026</div>
+    </div>
+  </div>
+  <div class="talk-row">
+    <a class="talk-company-logo" href="https://www.fidelity.com/" aria-label="Fidelity Investments">
+      <img src="{{ '/images/fidelity-logo.svg' | relative_url }}" alt="Fidelity Investments logo">
+    </a>
+    <div>
+      <strong><a href="https://arxiv.org/abs/2608.02441">Agentic Commerce World</a></strong>
+      <div class="text-muted small">Invited talk at <a href="https://www.fidelity.com/">Fidelity Investments</a>, Sep 2026</div>
+    </div>
+  </div>
+  <div class="talk-row">
+    <a class="talk-company-logo" href="https://corporate.visa.com/" aria-label="Visa">
+      <img src="{{ '/images/visa-logo.svg' | relative_url }}" alt="Visa logo">
+    </a>
+    <div>
+      <strong><a href="https://arxiv.org/abs/2608.02441">Agentic Commerce World</a></strong>
+      <div class="text-muted small">Invited talk at <a href="https://corporate.visa.com/">Visa</a>, Sep 2026</div>
+    </div>
+  </div>
+  <div class="talk-row">
+    <a class="talk-company-logo" href="https://www.alibabagroup.com/" aria-label="Alibaba">
+      <img src="{{ '/images/alibaba-logo.svg' | relative_url }}" alt="Alibaba logo">
+    </a>
+    <div>
+      <strong><a href="https://arxiv.org/abs/2604.01687">CoEvoSkills</a></strong>
+      <div class="text-muted small">Invited talk at <a href="https://www.alibabagroup.com/">Alibaba</a>, Jun 2026</div>
     </div>
   </div>
 </div>
